@@ -1,0 +1,1 @@
+We ordered the <pos>Thai beet</pos> and <pos>peanut sandwich</pos> and the brined <pos>turkey sandwich</pos>. The <pos>Thai sandwich</pos> had a great flavor, however, it was a bit too spicy for us. The waitress fold us it was not spicy. The <pos>turkey sandwich</pos> was well made. 

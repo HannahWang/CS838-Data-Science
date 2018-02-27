@@ -1,0 +1,1 @@
+We stopped for <pos>lunch</pos> on a Monday afternoon. There are several tables outside, twice that number inside. It is counter service, carry your number to the table and wait. <pos>Grilled chicken sandwich</pos> with <pos>prosciutto</pos> was flavorful and simple. <pos>Grilled chicken salad</pos> had <pos>corn</pos>, <pos>tomatoes</pos> and <pos>greens</pos>.

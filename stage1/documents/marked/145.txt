@@ -1,0 +1,1 @@
+The food is a mix of American <pos>breakfast</pos>/<pos>brunch</pos> faire with a fresh take on farm-to-table. The fresh <pos>mixed green salad</pos> with <pos>vinaigrette</pos> was a delightful treat with the <pos>ham</pos> and <pos>gruyere omelette</pos>. The <pos>home fries</pos> were well done and the <pos>coffee</pos> was strong and fresh.

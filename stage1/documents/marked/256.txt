@@ -1,0 +1,1 @@
+A great <pos>breakfast</pos> and <pos>lunch</pos> place,but small and noisy. Try to avoid during summer Saturddays when locals visit the farmer's market on the capital square. Waitstaff is excellent and the kitchen will prepare things to order, like <pos>egg white omelettes</pos>. Wonderful <pos>baked goods</pos> and <pos>specialty coffees</pos>.

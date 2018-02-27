@@ -1,0 +1,1 @@
+Delicious <pos>scrambler</pos> with <pos>eggs</pos>, <pos>chorizo</pos>, <pos>spinach</pos> and <pos>peppers</pos>, a good start for the day. Good <pos>breakfast</pos> and lunch choices, <pos>juice</pos>, <pos>coffee</pos>, friendly service.

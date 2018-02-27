@@ -1,0 +1,1 @@
+Yes, it cost me $14 for <pos>breakfast</pos>, but it is one of the best <pos>breakfasts</pos> I have ever had. I got an <pos>omelette</pos> and a side of <pos>yogurt</pos>. The table had <pos>jam</pos> in a jar, spread into the bowl of <pos>yogurt</pos> - fantastic. The <pos>omelette</pos> was dilicious.

@@ -1,0 +1,1 @@
+This restaurant is charming with a nice variety of dishes. It's a perfect place to grab <pos>breakfast</pos> on a Saturday morning. I had the <pos>scrambler</pos>, which was great. The <pos>toast</pos> is also delicious. The only bad part is the line.

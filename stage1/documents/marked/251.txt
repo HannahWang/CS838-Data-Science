@@ -1,0 +1,1 @@
+The <pos>breakfasts</pos> are varied and delicious. From <pos>waffles</pos> to unique <pos>egg</pos> dishes, everyone seems to enjoy the fare. <pos>Lunch</pos> ranges from a fresh thick <pos>burger</pos> to really interesting (and generous) fresh made <pos>salads</pos>. The <pos>bakery</pos> is good to. It is crowded, but that adds to

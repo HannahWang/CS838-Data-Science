@@ -1,0 +1,1 @@
+They serve up a menu with whole foods ingredients executed with care. We ate from their breakfast menu: <pos>coffee</pos> was delicious, <pos>eggs</pos> were expertly prepared... Too often they are overlooked... <pos>Bread</pos> was wonderful, as was the <pos>marmalade</pos>!

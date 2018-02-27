@@ -1,0 +1,1 @@
+We stopped by a <pos>bagel</pos> shop and asked for a recommendation for <pos>breakfast</pos>. This was where they send us. This is located on the 2nd floor so you might not think to stop on your own. <pos>Breakfast</pos> was great.

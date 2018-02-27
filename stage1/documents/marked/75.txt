@@ -1,0 +1,1 @@
+Great for <pos>breakfast</pos> and <pos>lunch</pos>. Ate there twice on a recent business trip. Everyone in my party of 8 was very happy with their <pos>lunch</pos>. <pos>Breakfast</pos> the next day was also delicious; yummy <pos>yogurt</pos> and <pos>granola</pos>, and divine <pos>blueberry pancakes</pos>. 

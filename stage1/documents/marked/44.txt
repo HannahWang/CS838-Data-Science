@@ -1,0 +1,1 @@
+If you like rich, greasy food, you'll love Marigold Kitchen. Couldn't find anything on the menu that was light and healthy. They wouldn't serve the <pos>Irish oatmeal</pos> without <pos>pancakes</pos>. They don't know how to make a dry <pos>cappuccino</pos>. 
