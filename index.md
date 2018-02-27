@@ -2,9 +2,7 @@
 
 ### Stage 1
 
-```markdown
 - [Original Data](https://github.com/HannahWang/CS838-Data-Science/tree/master/stage1/documents/original)
-```
 
 You can use the [editor on GitHub](https://github.com/HannahWang/CS838.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
