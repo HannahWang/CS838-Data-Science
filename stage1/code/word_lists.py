@@ -3,6 +3,8 @@
 """
 Created on Sat Feb 24 16:42:04 2018
 
+List of words used to extract features and perform pre-processing pruning
+
 @author: kangyanghui
 """
 
@@ -20,14 +22,22 @@ ingrdList = ["chicken","pork","beef","duck","steak","shrimp","lamb","fish", \
              "chocolate","latte","lattes","vanilla","bread","ranch","cake", \
              "cheese","egg","eggs","omelette","omelettes","waffle","bread", \
              "pancake","pancakes","potato","potatoes","spanich","lettuce","tomato"\
-             "coffee","sandwich","maple","sausage","bagel"]
+             "coffee","sandwich","maple","sausage","bagel","scone","rosemary",\
+             "toast","cocktail","cocktails","butter","hash","beet","omelettes",\
+             "omelete","omelets","juice","coffees","basil","dressing","cakes",\
+             "sugar","cheeses","fruit","yogurt","soy","mushroom","tofu","soup",\
+             "soups","doughnut","burger","rosemary","cocktail","cocktails"]
 foodAdjList = ['special','house','thin-cut','fried','french','chile-braised',\
-               'daily','american','mexican','sweet','real','orange',\
-               'diced','grilled','roasted','shredded','rustic','mixed']
+               'daily','american','sweet','real','orange',\
+               'diced','grilled','roasted','shredded','rustic','mixed',\
+               'glutten-free','whipped','swiss','black','iced','poached',\
+               'white','baked','candied','whole','dried','irish','homemade',\
+               'signature','home','spiced','shredded']
 
 # List of meal names
 mealList = ['breakfast','brunch','lunch','dinner','lunches','buffet',\
-            'appitizer','appitizers','buffet','beverage','beverages']
+            'appitizer','appitizers','dinners','beverage','beverages',\
+            'entrees','entree']
 
 # List of correction made to njtk pos tag
 # some nouns are treated as adjective or verb
@@ -37,10 +47,12 @@ corrToNN = ['breakfast', 'brunch', 'syrup', 'cheese', 'lunch', 'pancakes', \
             'egg','sandwich','pesto','orange','scrambler','jelly','chicken',\
             'feta','benedict','ranch','cranberry']
 corrToJJ = ['hot','poached','toasted','roasted','fried','sliced','grilled',\
-            'scrambled','pulled','yellow','cozy','excellent','roommy',\
-            'savory','arrival','spicy','roomy']
+            'scrambled','pulled','yellow','cozy','excellent','roommy','bussing',\
+            'savory','arrival','spicy','roomy','quaint','top-notch','relaxing',\
+            'tender','equal','cosy','relaxed','australian']
 corrToVB = ['order','come','wait','arrived','got','re','was','were','ordered',\
-            'tried','had','fear','saw','ask','sit','sat','serve']
+            'tried','had','fear','saw','ask','sit','sat','serve','love','beware',\
+            'worth','pay','felt']
 corrToRB = ['especially']
 
 # List of common non-food nouns
@@ -82,4 +94,13 @@ nonFoodList = ['people', 'place', 'food', 'friends', 'capital', 'wife', \
                'good','classic','resturants','professionals','delicious','savory',\
                'half','opening','amount','friendliness','killer','capacity',\
                'wonderful','much','awesome','creative','local','hype','worst',\
-               'city','hall','wi-fi','turnover']
+               'city','hall','wi-fi','turnover','college','bummer','gf',\
+               'tripadvisor','flavor','flavors','inch','locals',\
+               'star','stars','pm','am','flower','flowers','candle','candles',\
+               'suits','suit','care','back','buck','bucks','girlfriend',\
+               'boyfriend','lover','im','amount','amounts','changes','signs',\
+               'seat','seating','everybody','station','different','i e'\
+               'piece','pieces','none','noise','noises','little','consistency',\
+               'chaos','faire','available','badger','decor','rehearsal','royalty',\
+               'typical','course','dishes','shop','cooked','outstanding','clientele',\
+               'unique','lifestyle','lifestyles']
