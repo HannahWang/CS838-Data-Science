@@ -1,1 +1,1 @@
-Delightful <pos>breakfast</pos> the day after Christmas. Order at counter. Food brought to table. Organic <pos>eggs</pos>. Friendly staff.
+Delightful <pos>breakfast</pos> the day after Christmas. Order at counter. Food brought to table. <pos>Organic eggs</pos>. Friendly staff.

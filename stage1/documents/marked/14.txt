@@ -1,1 +1,1 @@
-My wife and I did lunch here in October 2017. Artisan sandwiches “sammies” with fresh <pos>orange juice</pos> and local <pos>beer</pos>. Good food and service ideally situated for pre- or post- Capitol tours. Clean restrooms. We would definitely lunch here again. 
+My wife and I did <pos>lunch</pos> here in October 2017. <pos>Artisan sandwiches</pos> “sammies” with fresh <pos>orange juice</pos> and local <pos>beer</pos>. Good food and service ideally situated for pre- or post- Capitol tours. Clean restrooms. We would definitely <pos>lunch</pos>14 here again. 

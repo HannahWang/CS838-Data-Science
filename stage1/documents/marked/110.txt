@@ -1,1 +1,1 @@
-Great food at a reasonable price. A fun atmosphere to go with friends. Wonderful <pos>breakfast</pos> all day and lunch. Brunch on sat and a Sun.
+Great food at a reasonable price. A fun atmosphere to go with friends. Wonderful <pos>breakfast</pos> all day and <pos>lunch</pos>. <pos>Brunch</pos> on sat and a Sun.
