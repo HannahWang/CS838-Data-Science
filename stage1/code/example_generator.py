@@ -5,7 +5,8 @@ Created on Thu Feb 22 17:36:58 2018
 
 Parse and generate attributes for all examples in documents
 1) parse each document and extract 1-4 word entities
-2) constructe attributes for each entity
+2）prune obvious non-food entities
+3) construct attributes for each entity
 
 Entity attributes:
     
@@ -121,15 +122,15 @@ def getAttributes(wordList, foodList, idx, length):
         attributes = getSrrdAttr(attributes, word_l2, postag_l2, 'word_l2')
     
     # attributes of word+1
-    if idx < len(wordList) - 1:
-        word_r1 = wordList[idx + 1][0]
-        postag_r1 = wordList[idx + 1][1]
+    if (idx + length) < len(wordList):
+        word_r1 = wordList[idx + length][0]
+        postag_r1 = wordList[idx + length][1]
         attributes = getSrrdAttr(attributes, word_r1, postag_r1, 'word_r1')
         
     # attributes of word+2
-    if idx < len(wordList) - 2:
-        word_r2 = wordList[idx + 2][0]
-        postag_r2 = wordList[idx + 2][1]
+    if (idx + length + 1) < len(wordList) - 1:
+        word_r2 = wordList[idx + length + 1][0]
+        postag_r2 = wordList[idx + length + 1][1]
         attributes = getSrrdAttr(attributes, word_r2, postag_r2, 'word_r2')
         
     return attributes
@@ -192,7 +193,7 @@ def correctTag(wordList):
 
 
 if __name__ == '__main__':
-    os.chdir("./markup_v2/set_I")
+    os.chdir("./markup_v5/set_J")
     files = glob.glob("*.txt")
     
     # split review into sentences
@@ -256,6 +257,6 @@ if __name__ == '__main__':
     
     # save
     os.chdir('..')
-    data.to_csv('set_I_examples.csv', index = False)
+    data.to_csv('set_J_examples.csv', index = False)
     
     
