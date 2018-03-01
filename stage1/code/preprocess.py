@@ -34,10 +34,6 @@ df3 = df1.append(df2)
 
 # impute missing values
 df3_t = DataFrameImputer().fit_transform(df3)
-#print ('before')
-#print(df3)
-#print('after')
-#print(df3_t)
 
 # label encode
 le = preprocessing.LabelEncoder()
