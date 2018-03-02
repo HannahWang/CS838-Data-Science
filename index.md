@@ -8,8 +8,8 @@ Markup Tag:  `<pos></pos>`
 
 - [Original Documents](https://github.com/HannahWang/CS838-Data-Science/tree/master/stage1/documents/original)
 - [Marked Documents](https://github.com/HannahWang/CS838-Data-Science/tree/master/stage1/documents/marked)
-- [Set I Documents]()
-- [Set J Documents]()
+- [Set I Documents](https://github.com/HannahWang/CS838-Data-Science/tree/master/stage1/documents/set_I)
+- [Set J Documents](https://github.com/HannahWang/CS838-Data-Science/tree/master/stage1/documents/set_J)
 - [Source Code](https://github.com/HannahWang/CS838-Data-Science/tree/master/stage1/code)
 - [Packed All]()
 - [Report]()
