@@ -1,0 +1,1 @@
+We had <pos>breakfast</pos> at the Marigold restaurant Sunday morning. It is a unique process were you order first then wait for a table when it becomes available. We ordered an <pos>Omelette</pos> and 2 <pos>eggs</pos> over easy with <pos>sausage</pos>. 

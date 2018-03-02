@@ -1,0 +1,1 @@
+This place has a great <pos>Bloody Mary</pos> and good <pos>brunch</pos>. Very healthy and fresh. They are only open for <pos>breakfast</pos> and <pos>brunch</pos>.;

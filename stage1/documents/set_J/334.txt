@@ -1,0 +1,1 @@
+We love this little cafe for <pos>breakfast</pos> and <pos>brunch</pos>. You order at the counter, then sit down at a table and are served when the food is ready. They have very good <pos>lattes</pos> and other <pos>beverages</pos>, but also full <pos>breakfasts</pos> (and creative ones), not just <pos>patries</pos> and <pos>breakfast sandwiches</pos>.

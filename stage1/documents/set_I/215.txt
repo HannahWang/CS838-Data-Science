@@ -1,0 +1,1 @@
+Marigold Kitchen is a <pos>breakfast</pos> and <pos>lunch</pos> restaurant a short walk from the Wisconsin state capitol. It's a counter service restaurant where you take a numbered flag and the food is brought to your table. Simple wood tables and pour your own <pos>coffee</pos>.

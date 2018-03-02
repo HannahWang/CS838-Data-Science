@@ -1,0 +1,1 @@
+Great <pos>breakfast</pos> option! It's not the cheapest place, but the food more than makes up for it. I had the <pos>chorizo</pos> and <pos>corn salsa omelette</pos>, which was one of the best I've had. My friends tried other types of <pos>omelettes</pos> and the <pos>breakfast scramble</pos>. 
