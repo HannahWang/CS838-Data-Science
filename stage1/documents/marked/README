@@ -1,0 +1,7 @@
+Marked-up text documents
+
+Food entites are marked with <pos>...</pos> tags
+
+Example:
+<pos>breakfast potatoes</pos>
+<pos>sandwich</pos>
