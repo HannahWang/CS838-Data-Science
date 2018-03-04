@@ -11,5 +11,5 @@ Markup Tag:  `<pos></pos>`
 - [Set I Documents](https://github.com/HannahWang/CS838-Data-Science/tree/master/stage1/documents/set_I)
 - [Set J Documents](https://github.com/HannahWang/CS838-Data-Science/tree/master/stage1/documents/set_J)
 - [Source Code](https://github.com/HannahWang/CS838-Data-Science/tree/master/stage1/code)
-- [Packed All]()
-- [Report]()
+- [Packed All](https://github.com/HannahWang/CS838-Data-Science/blob/master/stage1/stage1.zip)
+- [Report](https://github.com/HannahWang/CS838-Data-Science/blob/master/stage1/Report%20-%20Stage%201.pdf)
