@@ -3,7 +3,10 @@
 """
 Created on Sat Mar 17 20:02:45 2018
 
-Common attributes:
+Pre-process and clean data extracted from Tripadvisor and Yelp
+To match the schema of both
+
+Final attributes:
     name,
     category_1,
     category_2,
