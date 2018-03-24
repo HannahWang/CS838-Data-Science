@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: [CS838 Data Science Group 9]
+use_logo: true
+logo: assets/folder.png
 description: [Ya-Chun Yang<br>Yanghui Kang<br>Han Wang]
