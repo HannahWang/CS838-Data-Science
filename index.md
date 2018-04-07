@@ -23,3 +23,4 @@ B: [TripAdvisor Restaurants in Los Angeles](https://www.tripadvisor.com/Restaura
 
 - [Data](https://github.com/HannahWang/CS838-Data-Science/tree/master/stage2/data)
 - [Source Code](https://github.com/HannahWang/CS838-Data-Science/tree/master/stage2/code)
+- [Report](https://github.com/HannahWang/CS838-Data-Science/blob/master/stage2/Report%20-%20Stage2.pdf)
