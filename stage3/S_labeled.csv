@@ -1,0 +1,501 @@
+_id,ltable_id,rtable_id,ltable_name,ltable_address,ltable_city,ltable_zipcode,ltable_phone,rtable_name,rtable_address,rtable_city,rtable_zipcode,rtable_phone,labe
+1,a1,b162,Hae Jang Chon Korean BBQ Restaurant,3821 W 6th St,Los Angeles,90020,2133898777,Hae Jang Chon Korean BBQ Restaurant,3821 W 6th St,Los Angeles,90020,2133898777,1
+23,a2,b162,Kang Ho-dong Baekjeong,3465 W 6th St,Los Angeles,90020,2133849678,Hae Jang Chon Korean BBQ Restaurant,3821 W 6th St,Los Angeles,90020,2133898777,0
+24,a2,b268,Kang Ho-dong Baekjeong,3465 W 6th St,Los Angeles,90020,2133849678,Kang Hodong Baekjeong,3465 W 6th St,Los Angeles,90020,2133849678,1
+32,a2,b1987,Kang Ho-dong Baekjeong,3465 W 6th St,Los Angeles,90020,2133849678,KangHoDong Baek Jeong,3465 W 6th St Ste 20,Los Angeles,90020,2133849678,1
+177,a37,b162,Hangari Bajirak Kalgooksoo,3470 W 6th St,Los Angeles,90020,2133882326,Hae Jang Chon Korean BBQ Restaurant,3821 W 6th St,Los Angeles,90020,2133898777,0
+186,a37,b1987,Hangari Bajirak Kalgooksoo,3470 W 6th St,Los Angeles,90020,2133882326,KangHoDong Baek Jeong,3465 W 6th St Ste 20,Los Angeles,90020,2133849678,0
+194,a37,b2502,Hangari Bajirak Kalgooksoo,3470 W 6th St,Los Angeles,90020,2133882326,Sake House by Hikari,3465 W 6th St,Los Angeles,90020,2133894000,0
+340,a1139,b1987,Shin Chon Seolnongtang,3033 W 6th St,Los Angeles,90020,2133652233,KangHoDong Baek Jeong,3465 W 6th St Ste 20,Los Angeles,90020,2133849678,0
+357,a3,b710,Road To Seoul,1230 S Western Ave,Los Angeles,90006,3237319292,Road to Seoul,1230 S Western Ave,Los Angeles,90006,3237319292,1
+401,a20,b188,Guelaguetza Restaurante,3014 W Olympic Blvd,Los Angeles,90006,2134270608,Guelaguetza,3014 W Olympic Blvd,Los Angeles,90006,2134270608,1
+440,a28,b610,Beverly Soon Tofu Restaurant,2717 W Olympic Blvd,Los Angeles,90006,2133801113,Beverly Soon Tofu,2717 W Olympic Blvd Ste 108,Los Angeles,90006,2133801113,1
+495,a49,b2784,Hodori Restaurant,1001 S Vermont Ave,Los Angeles,90006,2133833554,A-Won Japanese Restaurant,913 S Vermont Ave,Los Angeles,90006,2133896764,0
+568,a4,b7,Langer's,704 S Alvarado St,Los Angeles,90057,2134838050,Langer's,704 S Alvarado St,Los Angeles,90057,2134838050,1
+693,a6,b1353,Soowon Galbi KBBQ Restaurant,856 S Vermont Ave,Los Angeles,90005,2133659292,Kobawoo Restaurant,698 S Vermont Ave Ste 109,Los Angeles,90005,2133897300,0
+763,a22,b2187,Oo-Kook Korean BBQ,3385 W 8th St,Los Angeles,90005,2133855665,Man Soo Korean BBQ,3423 W 8th St # 3429,Los Angeles,90005,2133889494,0
+783,a25,b2113,Eight Korean BBQ,863 S Western Ave,Los Angeles,90005,2133651750,Eight Korean BBQ,863 S Western Ave,Los Angeles,90005,2133651750,1
+840,a40,b1353,Kobawoo House,698 S Vermont Ave,Los Angeles,90005,2133897300,Kobawoo Restaurant,698 S Vermont Ave Ste 109,Los Angeles,90005,2133897300,1
+886,a50,b2071,Honey Pig,3400 W 8th St,Los Angeles,90005,2133800256,Honey Pig,3400 W 8th St,Los Angeles,90005,2133800256,1
+1137,a2038,b1923,VIP Chinese Restaurant,705 S Western Ave,Los Angeles,90005,2133898532,Pollo a la Brasa- Peruvian Wood Rotisserie Chicken,764 S Western Ave,Los Angeles,90005,2133824090,0
+1203,a2042,b2113,Han Kook Soondae,730 S Western Ave,Los Angeles,90005,2133800020,Eight Korean BBQ,863 S Western Ave,Los Angeles,90005,2133651750,0
+1329,a33,b612,Commissary,3515 Wilshire Blvd,Los Angeles,90010,2133683030,Commissary,3515 Wilshire Blvd,Los Angeles,90010,2133683030,1
+1350,a36,b1691,Myung Dong Kyoja,3630 Wilshire Blvd,Los Angeles,90010,2133857789,Myung Dong Kyoja,3630 Wilshire Blvd,Los Angeles,90010,2133857789,1
+1413,a21,b343,Chosun Galbee,3330 W Olympic Blvd,Los Angeles,90019,3237343330,Chosun Galbee Restaurant,3330 W Olympic Blvd,Los Angeles,90019,3237343330,1
+1497,a192,b1038,Leo's Tacos Truck,1515 S La Brea Ave,Los Angeles,90019,3233462001,Leos Tacos Truck,1515 S La Brea Ave,Los Angeles,90019,,1
+1554,a194,b1244,Bloom Cafe,5544 W Pico Blvd,Los Angeles,90019,3239346900,Bloom Cafe,5544 W Pico Blvd,Los Angeles,90019,3239346900,1
+1564,a194,b2258,Bloom Cafe,5544 W Pico Blvd,Los Angeles,90019,3239346900,Paper or Plastik Cafe,5772 W Pico Blvd,Los Angeles,90019,3239350268,0
+1590,a198,b2258,CJ's Cafe,5501 W Pico Blvd,Los Angeles,90019,3239363216,Paper or Plastik Cafe,5772 W Pico Blvd,Los Angeles,90019,3239350268,0
+1634,a204,b1517,PIPS On La Brea,1356 S La Brea Ave,Los Angeles,90019,3239547477,Pips on La Brea,1356 S La Brea Ave,Los Angeles,90019,3239547477,1
+1843,a216,b1630,Brownstone Bistro,5047 W Pico Blvd,Los Angeles,90019,3239659400,Brownstone Bistro,5047 W Pico Blvd,Los Angeles,90019,3239655047,1
+2100,a637,b1244,Paper or Plastik Cafe,5772 W Pico Blvd,Los Angeles,90019,3239350268,Bloom Cafe,5544 W Pico Blvd,Los Angeles,90019,3239346900,0
+2106,a637,b1768,Paper or Plastik Cafe,5772 W Pico Blvd,Los Angeles,90019,3239350268,The Grain Cafe,4222 W Pico Blvd,Los Angeles,90019,3239314034,0
+2624,a81,b1466,Library Bar,630 W 6th St,Los Angeles,90017,2136140053,Library Bar,630 W 6th St,Los Angeles,90017,2136140053,1
+2650,a187,b133,Industriel,609 S Grand Ave,Los Angeles,90017,2134888020,Industriel,609 S Grand Ave,Los Angeles,90017,2134888020,1
+2826,a1099,b781,Pacific Dining Car,1310 W 6th St,Los Angeles,90017,2134836000,Spear Steak & Seafood House,800 W 6th St,Los Angeles,90017,2136883000,0
+3380,a2092,b1024,Seasalt Fish Grill,812 W 7th St,Los Angeles,90017,2132435700,Chipotle Mexican Grill,601 W 7th St,Los Angeles,90017,2132832058,0
+3488,a2094,b867,Morton's The Steakhouse,735 S Figueroa St,Los Angeles,90017,2135534566,Morton's The Steakhouse,735 S Figueroa St,Los Angeles,90017,2135534566,1
+3890,a2101,b1500,California Pizza Kitchen at 7th Street Los Angeles,735 S Figueroa St,Los Angeles,90017,2132288500,Corner Bakery Cafe,801 S Figueroa St,Los Angeles,90017,2132390424,0
+4123,a2105,b2395,Indus by Saffron,735 S Figueroa St,Los Angeles,90017,2136881400,Indus by Saffron,735 S Figueroa St,Los Angeles,90017,2136881400,1
+5278,a62,b131,Osteria Mozza,6602 Melrose Ave,Los Angeles,90038,3232970100,Osteria Mozza,6602 Melrose Ave,Los Angeles,90038,3232970100,1
+5283,a62,b391,Osteria Mozza,6602 Melrose Ave,Los Angeles,90038,3232970100,Osteria La Buca,5210 1/2 Melrose Ave,Los Angeles,90038,3234621900,0
+5385,a69,b933,Mario's Peruvian & Seafood,5786 Melrose Ave,Los Angeles,90038,3234664181,Mario's Peruvian & Seafood,5786 Melrose Ave,Los Angeles,90038,3234664181,1
+5454,a266,b131,Osteria La Buca,5210 Melrose Ave,Los Angeles,90038,3234621900,Osteria Mozza,6602 Melrose Ave,Los Angeles,90038,3232970100,0
+5503,a268,b391,Osteria Mamma,5732 Melrose Ave,Los Angeles,90038,3232847060,Osteria La Buca,5210 1/2 Melrose Ave,Los Angeles,90038,3234621900,0
+5620,a559,b2253,Anarkali Indian Restaurant,7013 Melrose Ave,Los Angeles,90038,3239346488,Inti Restaurant,5870 Melrose Ave,Los Angeles,90038,3239622027,0
+5763,a53,b42,Perch,448 S Hill St,Los Angeles,90013,2138021770,Perch,448 S Hill St,Los Angeles,90013,2138021770,1
+5832,a54,b60,Eggslut,317 S Broadway,Los Angeles,90013,2136250292,Eggslut,317 S Broadway,Los Angeles,90013,2136250292,1
+5960,a64,b41,Nickel Diner,524 S Main St,Los Angeles,90013,2136238301,Nickel Diner,524 S Main St,Los Angeles,90013,2136238301,1
+6196,a73,b1471,Grand Central Market,317 S Broadway,Los Angeles,90013,2136242378,Golden Road at Grand Central,317 S Broadway,Los Angeles,90013,2136283170,1
+6223,a83,b36,Wurstküche,800 E 3rd St,Los Angeles,90013,2136874444,Wurstkuche,800 E 3rd St,Los Angeles,90013,2136874444,1
+6295,a86,b75,Urth Caffé - Downtown,451 S Hewitt St,Los Angeles,90013,2137974534,Urth Caffe,451 S Hewitt St,Los Angeles,90013,2137974534,1
+6428,a161,b211,Shojin Downtown,333 S Alameda St,Los Angeles,90013,2136170305,Shojin Organic and Natural,333 S Alameda St Ste 310,Los Angeles,90013,2136170305,1
+6539,a166,b2364,Honda Ya Izakaya,333 S Alameda St,Los Angeles,90013,2136251184,Izakaya Honda Ya,333 S Alameda St,Los Angeles,90013,2136251184,1
+6722,a184,b1335,Manna Korean BBQ,333 S Alameda St,Los Angeles,90013,2136170306,Manna Korean BBQ,333 S Alameda St,Los Angeles,90013,2136170306,1
+6754,a186,b45,Blossom Restaurant,426 S Main St,Los Angeles,90013,2136231973,Baco Mercat,408 S Main St,Los Angeles,90013,2136877000,0
+6775,a186,b890,Blossom Restaurant,426 S Main St,Los Angeles,90013,2136231973,Blossom Restaurant,426 S Main St,Los Angeles,90013,2136231973,1
+6966,a272,b666,Fisherman's Outlet,529 S Central Ave,Los Angeles,90013,2136277231,Fisherman's Outlet Restaurant and Market,529 S Central Ave,Los Angeles,90013,2136277231,1
+7427,a58,b2753,Genwa Korean BBQ,5115 Wilshire Blvd,Los Angeles,90036,3235490760,Baja Fresh Mexican Grill,5757 Wilshire Blvd,Los Angeles,90036,,0
+7542,a251,b87,Canter's Deli,419 N Fairfax Ave,Los Angeles,90036,3236512030,Canter's Deli,419 N Fairfax Ave,Los Angeles,90036,3236512030,1
+7738,a615,b179,Maggiano's Little Italy,189 The Grove Dr,Los Angeles,90036,3239659665,Maggiano's - Farmers Market,189 The Grove Dr,Los Angeles,90036,3239659665,1
+8035,a620,b290,Pampas Grill,6333 W 3rd St,Los Angeles,90036,3239311928,Phil s Deli & Grill,6333 W 3rd St,Los Angeles,90036,3239363704,0
+8432,a629,b504,Andre's Italian Restaurant,6332 W 3rd St,Los Angeles,90036,3239351246,Maggiano's Little Italy,6301 W 3rd St,Los Angeles,90036,3239659665,0
+8448,a629,b912,Andre's Italian Restaurant,6332 W 3rd St,Los Angeles,90036,3239351246,Singapore's Banana Leaf,6333 W 3rd St,Los Angeles,90036,3239334627,0
+8524,a641,b393,Wood Ranch BBQ & Grill,189 The Grove Dr,Los Angeles,90036,3239376800,Blue Ribbon Sushi Bar & Grill,189 The Grove Dr,Los Angeles,90036,3233529300,0
+8602,a645,b17,Loteria Grill,6333 W 3rd St,Los Angeles,90036,3239302211,Pampas Grill,6333 W 3rd St,Los Angeles,90036,3239346680,0
+8634,a645,b721,Loteria Grill,6333 W 3rd St,Los Angeles,90036,3239302211,Loteria Grill,6333 W 3rd St,Los Angeles,90036,3239302211,1
+8689,a645,b2815,Loteria Grill,6333 W 3rd St,Los Angeles,90036,3239302211,Mixology 101 Grill & Lounge,6333 W 3rd St,Los Angeles,90036,3233706561,0
+8722,a647,b448,Angelini Osteria,7313 Beverly Blvd,Los Angeles,90036,3232970070,Terroni,7605 Beverly Blvd,Los Angeles,90036,3239540300,0
+8965,a651,b2156,El Coyote Mexican Cafe,7312 Beverly Blvd,Los Angeles,90036,3239392255,Lulu's Cafe,7149 Beverly Blvd,Los Angeles,90036,3239386095,0
+9059,a652,b2013,Yuko Kitchen,5484 Wilshire Blvd,Los Angeles,90036,3239334020,Spare Tire Kitchen & Tavern,5370 Wilshire Blvd,Los Angeles,90036,3238234890,0
+9101,a56,b1174,Masa of Echo Park,1800 W Sunset Blvd,Los Angeles,90026,2139891558,Pho Cafe,2841 W Sunset Blvd,Los Angeles,90026,2134130888,0
+9145,a60,b360,Silverlake Ramen,2927 W Sunset Blvd,Los Angeles,90026,3236608100,Silver Lake Ramen,2927 W Sunset Blvd,Los Angeles,90026,3236608100,1
+9176,a60,b2291,Silverlake Ramen,2927 W Sunset Blvd,Los Angeles,90026,3236608100,Xoia Vietnamese Eats,1801 W Sunset Blvd,Los Angeles,90026,,0
+9246,a78,b64,Guisados,1261 W Sunset Blvd,Los Angeles,90026,2132507600,Guisados,1261 W Sunset Blvd,Los Angeles,90026,2132507600,1
+9465,a475,b405,Cliff's Edge,3626 W Sunset Blvd,Los Angeles,90026,3236666116,Cliff's Edge,3626 W Sunset Blvd,Los Angeles,90026,3236666116,1
+9525,a478,b1174,Pho Cafe,2841 W Sunset Blvd,Los Angeles,90026,2134130888,Pho Cafe,2841 W Sunset Blvd,Los Angeles,90026,2134130888,1
+9571,a480,b405,Flore Vegan Cuisine,3818 W Sunset Blvd,Los Angeles,90026,3239530611,Cliff's Edge,3626 W Sunset Blvd,Los Angeles,90026,3236666116,0
+9730,a494,b405,Forage,3823 W Sunset Blvd,Los Angeles,90026,3236636885,Cliff's Edge,3626 W Sunset Blvd,Los Angeles,90026,3236666116,0
+9784,a498,b548,Millie's Cafe,3524 W Sunset Blvd,Los Angeles,90026,3236640404,Millie's,3524 W Sunset Blvd,Los Angeles,90026,3236640404,1
+9818,a498,b2655,Millie's Cafe,3524 W Sunset Blvd,Los Angeles,90026,3236640404,Good Microbrew & Grill,3725 W Sunset Blvd,Los Angeles,90026,3236603645,0
+10059,a504,b1374,Elf Café,2135 W Sunset Blvd,Los Angeles,90026,2134846829,Elf Cafe,2135 W Sunset Blvd,Los Angeles,90026,2134846829,1
+10583,a2317,b997,El Paisano,1185 W Sunset Blvd,Los Angeles,90026,,El Compadre,1449 W Sunset Blvd,Los Angeles,90026,2132504505,0
+10597,a2317,b1757,El Paisano,1185 W Sunset Blvd,Los Angeles,90026,,El Cochinito Restaurant,3508 W Sunset Blvd,Los Angeles,90026,3236680737,0
+10727,a245,b10,Blu Jam Café,7371 Melrose Ave,Los Angeles,90046,3239519191,Blujam Cafe,7371 Melrose Ave,Los Angeles,90046,3239519191,1
+10844,a262,b317,Lala's Argentine Grill,7229 Melrose Ave,Los Angeles,90046,3239346838,Lala's,7229 Melrose Ave,Los Angeles,90046,3239346838,1
+10997,a399,b1635,The Griddle Cafe,7916 W Sunset Blvd,Hollywood,90046,3238740377,The Carving Board,7300 W Sunset Blvd,West Hollywood,90046,3238454550,0
+11167,a557,b639,El Compadre,7408 W Sunset Blvd,Los Angeles,90046,3238747924,El Pollo Loco,7101 W Sunset Blvd,Los Angeles,90046,3238746037,0
+11456,a569,b18,Chibiscus Asian Cafe,7361 W Sunset Blvd,Los Angeles,90046,3239779877,The Griddle Cafe,7916 W Sunset Blvd,Los Angeles,90046,3238740377,0
+11591,a572,b931,Jones,7205 Santa Monica Blvd,West Hollywood,90046,3238501726,Jones,7201 Santa Monica Blvd,West Hollywood,90046,3238501726,1
+11772,a654,b93,Crossroads,8284 Melrose Ave,Los Angeles,90046,3237829245,Crossroads,8284 Melrose Ave,Los Angeles,90046,3237829245,1
+12164,a1237,b2507,Hamburger Mary's,8288 Santa Monica Blvd,West Hollywood,90046,3236543800,Hamburger Mary's,8288 Santa Monica Blvd,West Hollywood,90046,3236543800,1
+13313,a170,b160,Fleming's Prime Steakhouse & Wine Bar,800 W Olympic Blvd,Los Angeles,90015,2137459911,Fleming's Prime Steakhouse & Wine Bar,800 W Olympic Blvd,Los Angeles,90015,2137459911,1
+13318,a170,b273,Fleming's Prime Steakhouse & Wine Bar,800 W Olympic Blvd,Los Angeles,90015,2137459911,Wolfgang Puck Bar & Grill - LA Live,800 W Olympic Blvd Ste A180,Los Angeles,90015,2137489700,0
+13342,a170,b1689,Fleming's Prime Steakhouse & Wine Bar,800 W Olympic Blvd,Los Angeles,90015,2137459911,Cana Rum Bar,714 W Olympic Blvd,Los Angeles,90015,2137457090,0
+13604,a281,b245,Broken Spanish,1050 S Flower St,Los Angeles,90015,2137491460,Broken Spanish,1050 S Flower St,Los Angeles,90015,2137491460,1
+13874,a292,b1945,King Taco,645 E Washington Blvd,Los Angeles,90015,2137479915,King Taco,645 E Washington Blvd,Los Angeles,90015,2137479915,1
+14027,a296,b2712,El Compadre,1248 S Figueroa St,Los Angeles,90015,2137490025,San Manuel Club,1111 S Figueroa St,Los Angeles,90015,2137427450,0
+14383,a309,b681,The New Moon,102 W 9th St,Los Angeles,90015,2136240186,WoodSpoon,107 W 9th St,Los Angeles,90015,2136291765,0
+14717,a1050,b599,Good Grill Express,210 E Olympic Blvd,Los Angeles,90015,2137492345,TRIPLE 8 China Bar & Grill,800 W Olympic Blvd Ste A120,Los Angeles,90015,2137473700,0
+16088,a2172,b2487,Ktchn Dtla - Wood Spoon,107 W 9th St,Los Angeles,90015,2139082646,New Moon,112 W 9th St Ste 102,Los Angeles,90015,2136240186,0
+16265,a2176,b1305,Pasha's Persian Restaurant,112 W 9th St,Los Angeles,90015,2136227578,1810 Argentinean Restaurant,105 W 9th St,Los Angeles,90015,2136231810,0
+16421,a71,b3105,Cole's French Dip,118 E 6th St,Los Angeles,90014,2136224090,Los Angeles New York Pizza,518 W 6th St,Los Angeles,90014,2136141100,0
+16434,a160,b670,LA Café,639 S Spring St,Los Angeles,90014,2136123000,LA Cafe,639 S Spring St,Los Angeles,90014,2136123000,1
+16481,a162,b1229,Poppy + Rose,765 Wall St,Los Angeles,90014,2139957799,Poppy & Rose,765 Wall St,Los Angeles,90014,2139957799,1
+17072,a2197,b374,Nick + Stef's Steakhouse,330 S Hope St,Los Angeles,90071,2136800330,Nick & Stef's Steakhouse,330 S Hope St,Los Angeles,90071,2136800330,1
+17196,a2208,b2672,Saffron,300 S Grand Ave,Los Angeles,90071,2136870555,Saffron,300 S Grand Ave,Los Angeles,90071,2136870552,1
+17275,a2211,b2428,Corner Bakery Cafe,300 S Grand Ave,Los Angeles,90071,2139214450,Corner Bakery Cafe,300 S Grand Ave,Los Angeles,90071,2139214450,1
+17304,a2212,b2672,Salata,300 S Grand Ave,Los Angeles,90071,2136171001,Saffron,300 S Grand Ave,Los Angeles,90071,2136870552,1
+17640,a659,b358,Chichen Itza Restaurant,3655 S Grand Ave,Los Angeles,90007,2137411075,Chichen Itza,3655 S Grand Ave Ste C6,Los Angeles,90007,2137411075,1
+17815,a666,b1649,Chick-fil-A,3758 S Figueroa St,Los Angeles,90007,2137478721,Chick-fil-A,3758 S Figueroa St,Los Angeles,90007,2137478721,1
+17866,a668,b1124,California Gogi Grill,3742 S Figueroa St,Los Angeles,90007,2137441910,Chipotle Mexican Grill,3748 S Figueroa St,Los Angeles,90007,2137659068,0
+18268,a686,b2056,McKay's,3540 S Figueroa St,Los Angeles,90007,2137434111,McKay's,3540 S Figueroa St,Los Angeles,90007,2137434111,1
+18403,a2278,b1649,La Taquiza,3009 S Figueroa St,Los Angeles,90007,2137419795,Chick-fil-A,3758 S Figueroa St,Los Angeles,90007,2137478721,0
+18427,a2280,b1140,Spudnuts Donuts,3001 S Figueroa St,Los Angeles,90007,2137490678,Dirt Dog,2528 S Figueroa St,Los Angeles,90007,2137491813,0
+18961,a85,b32,Philippe the Original,1001 N Alameda St,Los Angeles,90012,2136283781,Philippe the Original,1001 N Alameda St,Los Angeles,90012,2136283781,1
+19441,a91,b433,Howlin' Ray's,727 N Broadway,Los Angeles,90012,2139358399,Howlin Ray’s,727 N Broadway,Los Angeles,90012,2139358399,1
+19555,a92,b415,Shin-Sen-Gumi Hakata Ramen - Little Tokyo,132 S Central Ave,Los Angeles,90012,2136877108,Shin-Sen-Gumi LA,132 S Central Ave,Los Angeles,90012,2136877108,1
+19774,a95,b84,Yang Chow,819 N Broadway,Los Angeles,90012,2136250811,Yang Chow,819 N Broadway,Los Angeles,90012,2136250811,1
+20193,a159,b2203,Spitz - Little Tokyo,371 E 2nd St,Los Angeles,90012,2136130101,Liliya China Bistro,108 W 2nd St,Los Angeles,90012,2136201717,0
+20338,a165,b2931,Hama Sushi,347 E 2nd St,Los Angeles,90012,2136803454,Zencu Sushi and Grill,319 E 2nd St Ste 206,Los Angeles,90012,2136877780,0
+20596,a173,b369,Badmaash,108 W 2nd St,Los Angeles,90012,2132217466,BadmaashLA,108 W 2nd St,Los Angeles,90012,2132217466,1
+20815,a176,b13,Komasa Sushi,351 E 2nd St,Los Angeles,90012,2136801792,Sushi Gen,422 E 2nd St,Los Angeles,90012,2136170552,0
+21344,a182,b1896,Sushi Enya,343 E 1st St,Los Angeles,90012,,Toshi Sushi,359 E 1st St,Los Angeles,90012,2136804166,0
+21395,a185,b13,Men Oh Tokushima Ramen,456 E 2nd St,Los Angeles,90012,2136878485,Sushi Gen,422 E 2nd St,Los Angeles,90012,2136170552,0
+21512,a189,b27,Kura Revolving Sushi Bar,333 E 2nd St,Los Angeles,90012,2132909631,Redbird,114 E 2nd St,Los Angeles,90012,2137881191,0
+22029,a491,b1494,Mexicali Taco & Co,702 N Figueroa St,Los Angeles,90012,2136130416,Mexicali Taco & Co.,704 N Figueroa St,Los Angeles,90012,2136130416,1
+23124,a581,b2984,Thien Huong,727 N Broadway,Los Angeles,90012,2136260764,Fortune Gourmet Kitchen,727 N Broadway Ste 215,Los Angeles,90012,2136288188,0
+23245,a582,b3065,Qin West Noodle,727 N Broadway,Los Angeles,90012,2136871063,Hop Woo BBQ & Seafood Restaurant,845 N Broadway,Los Angeles,90012,2136173038,0
+24669,a1017,b642,JiST Cafe,116 Judge John Aiso St,Los Angeles,90012,2137922116,Jist Cafe,116 Judge John Aiso St,Los Angeles,90012,2137922116,1
+24819,a1018,b1717,Kouraku Restaurant,314 E 2nd St,Los Angeles,90012,2136874972,Koraku Restaurant,314 E 2nd St,Los Angeles,90012,2136874972,1
+24844,a1018,b2497,Kouraku Restaurant,314 E 2nd St,Los Angeles,90012,2136874972,kagaya japanese restaurant,418 E 2nd St,Los Angeles,90012,2136171016,0
+24915,a1019,b975,Mr Ramen,341 1/2 E 1st St,Los Angeles,90012,2136264252,Mr. Ramen,341 E 1st St,Los Angeles,90012,2136264252,1
+24921,a1019,b1175,Mr Ramen,341 1/2 E 1st St,Los Angeles,90012,2136264252,Manichi Ramen,321 1/4 E 1st St,Los Angeles,90012,2136139888,0
+25181,a1021,b2203,TOT / Teishokuya of Tokyo,345 E 2nd St,Los Angeles,90012,2136800344,Liliya China Bistro,108 W 2nd St,Los Angeles,90012,2136201717,0
+25187,a1021,b2421,TOT / Teishokuya of Tokyo,345 E 2nd St,Los Angeles,90012,2136800344,Teishokuya of Tokyo,345 E 2nd St,Los Angeles,90012,2136800344,1
+25379,a1023,b975,My Ramen Bar,321 1/4 E 1st St,Los Angeles,90012,2136139888,Mr. Ramen,341 E 1st St,Los Angeles,90012,2136264252,0
+25406,a1023,b1954,My Ramen Bar,321 1/4 E 1st St,Los Angeles,90012,2136139888,Far Bar,347 E 1st St,Los Angeles,90012,2136179990,0
+25571,a1025,b13,Zencu Sushi & Grill,319 E 2nd St,Los Angeles,90012,2136877780,Sushi Gen,422 E 2nd St,Los Angeles,90012,2136170552,0
+25910,a1027,b3039,Sushi & Teri,116 Japanese Village Plz Mall,Los Angeles,90012,2136878368,Sushi and Teri,116 Japanese Village Plaza Mall,Los Angeles,90012,2136878368,1
+26107,a1029,b2186,Korean Kitchen Hibachi Barbeque,135 Japanese Village Pl Mall,Los Angeles,90012,2136801039,Korean Kitchen Hibachi Barbeque,135 Japanese Village Plaza Mall,Los Angeles,90012,2136801039,1
+26429,a1032,b1175,RAKKAN Ramen,359 E 1st St,Los Angeles,90012,2136804166,Manichi Ramen,321 1/4 E 1st St,Los Angeles,90012,2136139888,0
+26796,a1035,b1896,Mitsuru Sushi & Grill,316 E 1st St,Los Angeles,90012,2136264046,Toshi Sushi,359 E 1st St,Los Angeles,90012,2136804166,0
+26932,a1036,b2497,Poke Express By Honda-Ya,316 E 2nd St,Los Angeles,90012,2136283665,kagaya japanese restaurant,418 E 2nd St,Los Angeles,90012,2136171016,0
+27721,a1052,b1824,Cilantro Fresh Mexican Grill,1149 Hill St,Los Angeles,90012,,Foo-Chow Restaurant,949 N Hill St,Los Angeles,90012,2134851294,0
+28632,a2202,b1077,Ocho Mexican Grill,255 S Grand Ave,Los Angeles,90012,2137884888,Ocho Mexican Grill,255 S Grand Ave,Los Angeles,90012,2137884888,1
+30124,a273,b478,Yxta Cocina Mexicana,601 S Central Ave,Los Angeles,90021,2135965579,Yxta,601 S Central Ave,Los Angeles,90021,2135965579,1
+30139,a275,b1661,Pizzanista!,2019 E 7th St,Los Angeles,90021,2136271430,Pizzanista!,2019 E 7th St,Los Angeles,90021,2136271430,1
+30251,a98,b1104,Taqueria Los Anaya,4651 W Adams Blvd,Los Angeles,90016,3237314070,Taqueria Los Anaya,4651 W Adams Blvd,Los Angeles,90016,3237314070,1
+30266,a102,b2619,Phillips Barbecue,2619 Crenshaw Blvd,Los Angeles,90016,3237314772,Phillips Barbeque,2619 Crenshaw Blvd,Los Angeles,90016,3237314772,1
+30412,a223,b2775,Normandie Bakery,3022 S Cochran Ave,Los Angeles,90016,3239395528,Normandie Pate,3022 S Cochran Ave,Los Angeles,90016,3239395528,1
+30532,a837,b675,Mama's Chicken and Market,2510 W Slauson Ave,Los Angeles,90043,3232929696,Orleans and York Deli,4454 W Slauson Ave,Los Angeles,90043,3232918800,0
+30931,a896,b225,Kanpai Japanese Sushi Bar & Grill,8325 Lincoln Blvd,Los Angeles,90045,3103387223,Kanpai Sushi Bar and Grill,8325 Lincoln Blvd,Los Angeles,90045,3103387223,1
+31551,a921,b2308,KC's Crepes Cafe,8320 Lincoln Blvd,Los Angeles,90045,3103489697,Bristol Cafe in Bristol Farms,8448 Lincoln Blvd,Los Angeles,90045,,0
+31656,a923,b631,Benny's Tacos & Chicken Rotisserie,7101 W Manchester Ave,Los Angeles,90045,3106708226,Paco's Tacos,6212 W Manchester Ave,Los Angeles,90045,3106458692,0
+31956,a935,b1115,Paco's Tacos,6212 W Manchester Ave,Los Angeles,90045,3106458692,Benny's Tacos & Chicken Rotisserie,7101 W Manchester Ave,Los Angeles,90045,3106708226,0
+32878,a2179,b400,Denny's,5535 W Century,Los Angeles,90045,3104101712,Denny's - Century Blvd.,5535 W Century Blvd,Los Angeles,90045,3104101712,1
+33482,a2187,b1645,Andiamo,5711 W Century Blvd,Los Angeles,90045,3104104000,Andiamo,5711 W Century Blvd,Los Angeles,90045,3104104000,1
+33634,a2189,b1981,Plaza Cafe,5777 W Century Blvd,Los Angeles,90045,3106457922,The Cafe,5711 W Century Blvd,Los Angeles,90045,,0
+36057,a2267,b993,Tacos Y Mariscos,Westchester Pkwy & Sepulveda,Los Angeles,90045,,Mercado Buenos Aires,7540 S Sepulveda Blvd,Los Angeles,90045,8187860522,0
+36095,a2267,b2574,Tacos Y Mariscos,Westchester Pkwy & Sepulveda,Los Angeles,90045,,Boston Market,8901 S Sepulveda Blvd,Los Angeles,90045,3104100111,0
+36422,a424,b554,Tender Greens,9523 Culver Blvd,Culver City,90232,3108428300,Tender Greens,9523 Culver Blvd,Culver City,90232,3108428300,1
+36468,a611,b825,Akasha,9543 Culver Blvd,Culver City,90232,3108451700,Akasha Restaurant & Bakery,9543 Culver Blvd,Culver City,90232,3108451700,1
+36588,a1397,b646,Meet in Paris,9727 Culver Blvd,Culver City,90232,3108158222,Meet in Paris,9727 Culver Blvd,Culver City,90232,3108158222,1
+36618,a1400,b2392,Cafe Vida,9755 Culver Blvd,Culver City,90232,3102870140,Cafe Vida,9755 Culver Blvd,Culver City,90232,3102870140,1
+36777,a600,b777,Gloria's Cafe,10227 Venice Blvd,Los Angeles,90034,3108380963,Gloria's Cafe,10227 Venice Blvd,Los Angeles,90034,3108380963,1
+36786,a600,b1732,Gloria's Cafe,10227 Venice Blvd,Los Angeles,90034,3108380963,Cafe Brasil,10831 Venice Blvd,Los Angeles,90034,3108378957,0
+36832,a613,b968,Simpang Asia,10433 National Blvd,Los Angeles,90034,3108159075,Simpang Asia,10433 National Blvd # 213,Los Angeles,90034,3108159075,1
+36864,a1147,b1732,Tara's Himalayan Cuisine,10855 Venice Blvd,Los Angeles,90034,3108369696,Cafe Brasil,10831 Venice Blvd,Los Angeles,90034,3108378957,0
+36870,a1147,b2103,Tara's Himalayan Cuisine,10855 Venice Blvd,Los Angeles,90034,3108369696,Almaza Fine Mediterranean Cuisine,8905 Venice Blvd,Los Angeles,90034,3102809006,0
+36985,a1182,b777,Cafe Brasil,10831 Venice Blvd,Los Angeles,90034,3108378957,Gloria's Cafe,10227 Venice Blvd,Los Angeles,90034,3108380963,0
+37119,a246,b219,The Stinking Rose,55 N La Cienega Blvd,Beverly Hills,90211,3106527673,The Stinking Rose,55 N La Cienega Blvd,Beverly Hills,90211,3106527673,1
+37163,a625,b201,Il Cielo,9018 Burton Way,Beverly Hills,90211,3102769990,Il Cielo,9018 Burton Way,Beverly Hills,90211,3102769990,1
+37213,a642,b1202,Tagine Beverly Hills,132 N Robertson Blvd,Beverly Hills,90211,3103607535,Tagine,132 N Robertson Blvd,Beverly Hills,90211,3103607535,1
+37272,a1280,b1053,Prospect Gourmand,272 S La Cienega Blvd,Beverly Hills,90211,4242049151,Prospect Gourmand,272 S La Cienega Blvd,Beverly Hills,90211,4242049151,1
+37490,a258,b414,Bao Dim Sum House,8256 Beverly Blvd,Los Angeles,90048,3236556556,Bao Dim Sum House,8256 Beverly Blvd,Los Angeles,90048,3236556556,1
+37860,a265,b1751,Toast Bakery Cafe,8221 W 3rd St,Los Angeles,90048,3236555018,Olio Pizzeria & Cafe,8075 W 3rd St,Los Angeles,90048,,0
+38324,a632,b814,Robata JINYA,8050 West 3rd St,Los Angeles,90048,3236538877,Robata Jinya,8050 W 3rd St,Los Angeles,90048,3236538877,1
+38550,a638,b192,Mercado,7910 W 3rd St,Los Angeles,90048,3239440947,Mercado,7910 W 3rd St,Los Angeles,90048,3239440947,1
+39164,a1239,b1358,Lemonade,9001 Beverly Blvd,West Hollywood,90048,3102472500,Lemonade,9001 Beverly Blvd,West Hollywood,90048,3102472500,1
+39195,a1260,b15,Madeo Restaurant,8897 Beverly Blvd,Los Angeles,90048,3108594903,Madeo,8897 Beverly Blvd,Los Angeles,90048,3108594903,1
+39404,a1267,b1224,Berlins,8474 W 3rd St,Los Angeles,90048,3237465409,Berlins,8474 W 3rd St,Los Angeles,90048,3237465409,1
+39807,a1274,b1102,The 3rd Stop,8636 W 3rd St,Los Angeles,90048,3102733605,The District by Hannah An,8722 W 3rd St,Los Angeles,90048,3102782345,0
+39824,a1274,b1530,The 3rd Stop,8636 W 3rd St,Los Angeles,90048,3102733605,Mainland Poke Shop,8318 1/2 W 3rd St,Los Angeles,90048,3102348800,0
+39844,a1274,b2589,The 3rd Stop,8636 W 3rd St,Los Angeles,90048,3102733605,The Third Stop,8636 W 3rd St,Los Angeles,90048,3102733605,1
+39869,a1278,b527,Locanda Veneta,8638 W 3rd St,Los Angeles,90048,3102741893,Locanda Veneta,8638 W 3rd St,Los Angeles,90048,3102741893,1
+40125,a1283,b657,Tres By José Andrés,465 S La Cienega Bvld,Los Angeles,90048,3102465551,Tres by Jose Andres,465 S La Cienega Blvd,Los Angeles,90048,3102465551,1
+40184,a1284,b78,Culina,300 S Doheny Dr,Los Angeles,90048,3108604000,Culina,300 S Doheny Dr,Los Angeles,90048,3108604000,1
+40763,a253,b136,Urth Caffé- Melrose,8565 Melrose Ave,West Hollywood,90069,3106590628,Urth Caffe,8565 Melrose Ave,West Hollywood,90069,3106590628,1
+40951,a255,b210,Fig & Olive Melrose Place,8490 Melrose Pl,West Hollywood,90069,3103609100,Fig & Olive Melrose Place,8490 Melrose Pl,West Hollywood,90069,3103609100,1
+41060,a256,b491,Taste on Melrose,8454 Melrose Ave,West Hollywood,90069,3238526888,Taste on Melrose,8454 Melrose Ave,West Hollywood,90069,3238526888,1
+41488,a938,b173,Saddle Ranch Chop House,8371 W Sunset Blvd,West Hollywood,90069,3236562007,Saddle Ranch Chop House,8371 W Sunset Blvd,West Hollywood,90069,3236562007,1
+41504,a938,b379,Saddle Ranch Chop House,8371 W Sunset Blvd,West Hollywood,90069,3236562007,BOA Steakhouse,9200 W Sunset Blvd,West Hollywood,90069,3236508383,0
+41686,a940,b399,Shake Shack,8520 Santa Monica Blvd,West Hollywood,90069,3234883010,Shake Shack,8520 Santa Monica Blvd,West Hollywood,90069,3234883010,1
+41819,a942,b2018,Katana,8439 W Sunset Blvd,West Hollywood,90069,3236508585,Serafina Sunset,8768 W Sunset Blvd,Los Angeles,90069,,0
+41860,a943,b338,Hugo's,8401 Santa Monica Blvd,West Hollywood,90069,3236543993,Hugo's,8401 Santa Monica Blvd,West Hollywood,90069,3236543993,1
+42049,a958,b480,PUMP Restaurant,8948 Santa Monica Blvd,West Hollywood,90069,3106577867,Pump Lounge,8948 Santa Monica Boulevad,West Hollywood,90069,3106577867,1
+42329,a1234,b619,Eveleigh,8752 W Sunset Blvd,West Hollywood,90069,4242391630,Eveleigh,8752 W Sunset Blvd,West Hollywood,90069,4242391630,1
+42612,a1238,b1020,The Church Key,8730 W Sunset Blvd,West Hollywood,90069,4242493700,The Church Key,8730 W Sunset Blvd,West Hollywood,90069,4242493700,1
+43382,a1248,b213,Barney's Beanery,8447 Santa Monica Blvd,West Hollywood,90069,3236542287,Barney's Beanery,8447 Santa Monica Blvd,West Hollywood,90069,3236542287,1
+43641,a1251,b92,Rainbow Bar & Grill,9015 W Sunset Blvd,Los Angeles,90069,3102784232,Rainbow Bar & Grill,9015 W Sunset Blvd,Los Angeles,90069,3102784232,1
+43772,a1252,b655,Tender Greens,8759 Santa Monica Blvd,West Hollywood,90069,3103581919,Tender Greens,8759 Santa Monica Blvd,West Hollywood,90069,3103581919,1
+43853,a1253,b512,Night + Market Weho,9043 W Sunset Blvd,West Hollywood,90069,3102759724,Night + Market,9043 W Sunset Blvd,West Hollywood,90069,3102759724,1
+44171,a1256,b2634,Phonomenal,8543 Santa Monica Blvd,West Hollywood,90069,4242493825,Phonomenal,8543 Santa Monica Blvd,West Hollywood,90069,4242493825,1
+44442,a1259,b2638,Craig's,8826 Melrose Ave,West Hollywood,90069,3102761900,Croft Alley,8428 Melrose Pl,Los Angeles,90069,,0
+44469,a1261,b322,Mel's Drive-In,8585 W Sunset Blvd,West Hollywood,90069,3108547201,Mels Drive-In,8585 W Sunset Blvd,West Hollywood,90069,3108547200,1
+44631,a264,b241,Komodo,8809 W Pico Blvd,Los Angeles,90035,3102465153,Komodo,8809 W Pico Blvd,Los Angeles,90035,3102465153,1
+44883,a1277,b2097,Natalee Thai Cuisine,998 S Robertson Blvd,Beverly Hills,90035,3108559380,Natalee Thai,998 S Robertson Blvd,Los Angeles,90035,3108559380,1
+44920,a1287,b1799,Tuk Tuk Thai,8875 W Pico Blvd,Los Angeles,90035,3108601872,Tuk Tuk Thai,8875 W Pico Blvd,Los Angeles,90035,3108601872,1
+44964,a1289,b1623,Fu's Palace,8751 W Pico Blvd,Los Angeles,90035,3102717887,Nagila Kosher Pizza & Salads,9411 W Pico Blvd,Los Angeles,90035,3107880111,0
+45299,a539,b83,DeSano Pizza Bakery,4959 Santa Monica Blvd,Los Angeles,90029,3239137000,DeSano Pizza Bakery,4959 Santa Monica Blvd,Los Angeles,90029,3239137000,1
+45348,a302,b2415,Tacos El Gavilan,1900 S Central Ave,Los Angeles,90011,2137426677,Tacos El Gavilan,1900 S Central Ave,Los Angeles,90011,2137426677,1
+45571,a327,b2876,Z's Crazy Good,1470 Monterey Pass Rd,Monterey Park,91754,3232607996,Z's Crazy Good,1470 Monterey Pass Rd,Monterey Park,91754,3232607996,1
+45925,a1978,b1470,Atlantic Seafood & Dim Sum Restaurant,500 N Atlantic Blvd,Monterey Park,91754,6268720388,Elite Restaurant,700 S Atlantic Blvd,Monterey Park,91754,6262829998,0
+46049,a1999,b1470,Happy Family Restaurant,500 N Atlantic Blvd,Monterey Park,91754,6262828986,Elite Restaurant,700 S Atlantic Blvd,Monterey Park,91754,6262829998,0
+46112,a2021,b1671,Mama Lu's Dumpling House,501 W Garvey Ave,Monterey Park,91754,6262822256,Duck House,501 S Atlantic Blvd,Monterey Park,91754,6262843227,0
+46136,a2022,b407,NBC Seafood Restaurant,404 S Atlantic Blvd,Monterey Park,91754,6262822323,NBC Seafood,404 S Atlantic Blvd,Monterey Park,91754,6262822323,1
+46142,a2022,b1470,NBC Seafood Restaurant,404 S Atlantic Blvd,Monterey Park,91754,6262822323,Elite Restaurant,700 S Atlantic Blvd,Monterey Park,91754,6262829998,0
+46389,a2031,b1371,Hot Pot Hot Pot,120 S Atlantic Blvd,Monterey Park,91754,6262821089,Hot Pot Hot Pot,120 S Atlantic Blvd,Monterey Park,91754,6262821089,1
+46422,a2033,b1671,Duck House,501 S Atlantic Blvd,Monterey Park,91754,6262843227,Duck House,501 S Atlantic Blvd,Monterey Park,91754,6262843227,1
+46911,a358,b3089,Mariscos Jalisco,3040 E Olympic Blvd,Los Angeles,90023,3235286701,Mariscos Jalisco,3040 E Olympic Blvd,Los Angeles,90023,3235286701,1
+46997,a1840,b1112,The Local Peasant - Sherman Oaks,14058 Ventura Blvd,Sherman Oaks,91423,8185010234,Le Petit Restaurant,13360 Ventura Blvd,Los Angeles,91423,8185017999,0
+47020,a1843,b720,Boneyard Bistro,13539 Ventura Blvd,Sherman Oaks,91423,8189067427,Boneyard Bistro,13539 Ventura Blvd,Los Angeles,91423,8189067427,1
+47050,a1844,b737,Garden Cafe,4351 Woodman Ave,Sherman Oaks,91423,8187883700,Carnival Restaurant,4356 Woodman Ave,Los Angeles,91423,8187843469,0
+47073,a1846,b86,Cafe Bizou,14016 Ventura Blvd,Sherman Oaks,91423,8187883536,Cafe Bizou,14016 Ventura Blvd,Los Angeles,91423,8187883536,1
+47085,a1846,b1117,Cafe Bizou,14016 Ventura Blvd,Sherman Oaks,91423,8187883536,Bamboo Cuisine,14010 Ventura Blvd,Los Angeles,91423,8187880202,0
+47110,a1847,b980,Sweet Butter Kitchen,13824 Ventura Blvd,Sherman Oaks,91423,8187882832,Sweet Butter Kitchen Cafe Market,13824 Ventura Blvd,Los Angeles,91423,8187882832,1
+47138,a1848,b877,Mendocino Farms,14141 Ventura Blvd,Sherman Oaks,91423,8182059744,Mendocino Farms,14141 Ventura Blvd,Los Angeles,91423,8182059744,1
+47326,a396,b1141,El Mercadito Mariachi Restaurant,3425 E 1st St,Los Angeles,90063,3232683451,El Mercadito del Este de Los Angeles,3425 E 1st St,Los Angeles,90063,3232683451,1
+47327,a396,b2263,El Mercadito Mariachi Restaurant,3425 E 1st St,Los Angeles,90063,3232683451,Teresitas Restaurant,3826 E 1st St,Los Angeles,90063,3232666045,0
+47708,a546,b124,Roscoe's House of Chicken & Waffles,1514 N Gower St,Los Angeles,90028,3234667453,Roscoe's House of Chicken & Waffles,1514 N Gower St,Los Angeles,90028,3234667453,1
+48019,a547,b2885,Palms Thai Restaurant,5900 Hollywood Blvd,Los Angeles,90028,3234625073,Secret Restaurant,6541 Hollywood Blvd Ste 104,Los Angeles,90028,3234635156,0
+48130,a548,b1704,25 Degrees,7000 Hollywood Blvd,Los Angeles,90028,3237857244,Street Churros,6801 Hollywood Blvd,West Hollywood,90028,,0
+48700,a552,b85,Katsuya Hollywood,6300 Hollywood Blvd,Los Angeles,90028,3233912757,Katsuya,6300 Hollywood Blvd,Los Angeles,90028,3238718777,1
+48741,a552,b629,Katsuya Hollywood,6300 Hollywood Blvd,Los Angeles,90028,3233912757,Wood & Vine,6280 Hollywood Blvd,Los Angeles,90028,3233343360,0
+48746,a552,b680,Katsuya Hollywood,6300 Hollywood Blvd,Los Angeles,90028,3233912757,Hollywood Burger - Los Angeles,6250 Hollywood Blvd,Los Angeles,90028,3233785668,0
+48774,a552,b1189,Katsuya Hollywood,6300 Hollywood Blvd,Los Angeles,90028,3233912757,Greenleaf Gourment Chopshop Hollywood,6201 Hollywood Blvd Ste 120,Los Angeles,90028,3233805127,0
+49229,a555,b482,The Waffle,6255 W Sunset Blvd,Los Angeles,90028,3234656901,The Waffle,6255 W Sunset Blvd,Los Angeles,90028,3234656901,1
+49365,a560,b100,In-N-Out Burger,7009 Sunset Blvd,Hollywood,90028,8007861000,In-N-Out Burger,7009 W Sunset Blvd,West Hollywood,90028,8007861000,1
+49586,a561,b802,Hoy-Ka Thai Restaurant,5908 Sunset Blvd,Los Angeles,90028,3234632979,Hoy-Ka Thai Noodle House,5908 W Sunset Blvd,Los Angeles,90028,3234632979,1
+49875,a564,b209,Musso & Frank Grill,6667 Hollywood Blvd,Hollywood,90028,3234677788,Loteria Grill,6627 Hollywood Blvd,Los Angeles,90028,3234652500,0
+49917,a564,b787,Musso & Frank Grill,6667 Hollywood Blvd,Hollywood,90028,3234677788,Snow White Cafe and Grill,6769 Hollywood Blvd,Los Angeles,90028,3234654444,0
+51127,a2050,b1861,Pollo Campero,5547 W Sunset Blvd,Los Angeles,90028,3234656927,Dreams Cafe & Bar,5625 W Sunset Blvd,West Hollywood,90028,3234652233,0
+51145,a2050,b2268,Pollo Campero,5547 W Sunset Blvd,Los Angeles,90028,3234656927,Mission Cantina,5946 W Sunset Blvd,West Hollywood,90028,3234693130,0
+51449,a2053,b1643,Burger King,5609 W Sunset Blvd,Los Angeles,90028,3234676708,Burger King,7079 W Sunset Blvd,Los Angeles,90028,3234692587,0
+52245,a2152,b856,Beauty & Essex,1615 Cahuenga Blvd,Hollywood,90028,3236768880,Beauty & Essex,1615 N Cahuenga Blvd,Los Angeles,90028,3236768880,1
+52634,a2154,b2122,California Wings Cafe,1649 N Cahuenga Blvd,Los Angeles,90028,3234652000,California Wings Cafe,1649 N Cahuenga Blvd,Los Angeles,90028,3234652000,1
+52655,a2154,b2653,California Wings Cafe,1649 N Cahuenga Blvd,Los Angeles,90028,3234652000,Trejo's Cantina,1556 N Cahuenga Blvd,Los Angeles,90028,3234618226,0
+52882,a2156,b483,Mama Shelter Rooftop Bar,6500 Selma Ave,Los Angeles,90028,3237856600,Mama Shelter,6500 Selma Ave,Los Angeles,90028,3237856600,1
+53628,a2388,b2093,Saint Felix,1602 N Cahuenga Blvd,Los Angeles,90028,3234695001,Anar Indian Restaurant,1807 N Cahuenga Blvd,Los Angeles,90028,3234660422,0
+53648,a2388,b2593,Saint Felix,1602 N Cahuenga Blvd,Los Angeles,90028,3234695001,Chan Dara Restaurant,1511 N Cahuenga Blvd,Los Angeles,90028,3234648585,0
+53979,a2390,b2581,Smoke's Poutinerie,1552 N Cahuenga Blvd,Los Angeles,90028,3237450267,Smokes Poutinerie,1552 N Cahuenga Blvd,Los Angeles,90028,3237450267,1
+54249,a2392,b1170,Trejo's Cantina - Hollywood,1556 N Cahuenga Blvd,Los Angeles,90028,3234618226,Saint Felix Hollywood,1602 N Cahuenga Blvd,West Hollywood,90028,3234695001,0
+54315,a2392,b2653,Trejo's Cantina - Hollywood,1556 N Cahuenga Blvd,Los Angeles,90028,3234618226,Trejo's Cantina,1556 N Cahuenga Blvd,Los Angeles,90028,3234618226,1
+55378,a597,b2101,Johnnie's Pastrami Restaurant,4017 Sepulveda Blvd,Culver City,90230,3103976654,Johnnie's Pastrami,4017 Sepulveda Blvd,Culver City,90230,3103976654,1
+55623,a418,b62,Baby Blues BBQ -Venice,444 Lincoln Blvd,Venice,90291,3103967675,Baby Blues BBQ,444 Lincoln Blvd,Los Angeles,90291,3103967675,1
+56693,a1522,b895,La Cabana Restaurant,738 Rose Ave,Venice,90291,3103927973,La Cabana Restaurant,738 Rose Ave,Los Angeles,90291,3103926161,1
+56878,a1528,b318,Salt Air,1616 Abbot Kinney Blvd,Venice,90291,3103969333,Salt Air,1616 Abbot Kinney Blvd,Los Angeles,90291,3103969333,1
+56963,a1529,b754,The Sidewalk Cafe,1401 Ocean Front Walk,Venice,90291,3103995547,On the Waterfront Cafe,205 Ocean Front Walk,Los Angeles,90291,3103920322,0
+57007,a1530,b122,Superba Food + Bread,1900 S Lincoln Blvd,Los Angeles,90291,3109075075,Superba Food + Bread,1900 Lincoln Blvd,Los Angeles,90291,3109075075,1
+57381,a414,b2079,Plan Check Kitchen + Bar,1800 Sawtelle Blvd,Los Angeles,90025,3104441411,Louigi's Italian Kitchen,1644 Sawtelle Blvd,Los Angeles,90025,3104774500,0
+57807,a435,b523,SushiStop,2053 Sawtelle Blvd,Los Angeles,90025,3104733999,Hide Sushi,2040 Sawtelle Blvd,Los Angeles,90025,3104777242,0
+58090,a443,b1445,Zankou Chicken,1716 S Sepulveda Blvd,Los Angeles,90025,3104440550,Zankou Chicken,1716 S Sepulveda Blvd,Los Angeles,90025,3104440550,1
+58249,a446,b2539,Furaibo Restaurant,2068 Sawtelle Blvd,Los Angeles,90025,3104441432,Restaurant 2117,2117 Sawtelle Blvd,Los Angeles,90025,3104771617,0
+58292,a448,b1589,Tofu Ya,2021 Sawtelle Blvd,Los Angeles,90025,3104732627,Seoul House of Tofu,2101 Sawtelle Blvd,Los Angeles,90025,3104449988,0
+58308,a448,b2288,Tofu Ya,2021 Sawtelle Blvd,Los Angeles,90025,3104732627,Tofu Ya,2021 Sawtelle Blvd,Los Angeles,90025,3104732627,1
+58539,a463,b1089,Curry House,2130 S Sawtelle Blvd,Los Angeles,90025,3104798477,Hurry Curry of Tokyo,2131 Sawtelle Blvd,Los Angeles,90025,3104731640,1
+58637,a464,b2272,Bandera,11700 Wilshire Blvd,Los Angeles,90025,3104773524,Hara Sushi,12222 Wilshire Blvd,Los Angeles,90025,,0
+58702,a469,b2102,California Chicken Cafe,2005 Westwood Blvd,Los Angeles,90025,3104461933,Pitfire Pizza Company,2018 Westwood Blvd,Los Angeles,90025,3104819860,0
+58981,a1204,b2674,Carmine's Restaurant & Bar,10463 Santa Monica Blvd,Los Angeles,90025,3104414706,Thai Talay Restaurant,11314 Santa Monica Blvd,Los Angeles,90025,3104773189,0
+59185,a2066,b3072,Mama Hong's Vietnamese Kitchen,11819 Wilshire Blvd,Los Angeles,90025,3103127881,Maru - Santa Monica,12400 Wilshire Blvd,Los Angeles,90025,,0
+59233,a2067,b2367,Nanbankan,11330 Santa Monica Blvd,Los Angeles,90025,3104781591,New Japan Take Out,11283 Santa Monica Blvd,Los Angeles,90025,3104770557,0
+59440,a2076,b2586,En Sushi,11651 Santa Monica Blvd,Los Angeles,90025,3104771551,En Sushi,11651 Santa Monica Blvd,Los Angeles,90025,3104771551,1
+59607,a2081,b1414,Monte Alban Restaurant,11929 Santa Monica Blvd,Los Angeles,90025,3104447736,Monte Alban,11927 Santa Monica Blvd,Los Angeles,90025,3104447736,1
+59641,a2081,b2674,Monte Alban Restaurant,11929 Santa Monica Blvd,Los Angeles,90025,3104447736,Thai Talay Restaurant,11314 Santa Monica Blvd,Los Angeles,90025,3104773189,0
+59680,a2082,b1608,Bar Hayama,1803 Sawtelle Blvd,Los Angeles,90025,3102352000,Kula Revolving Sushi Bar Sawtell,2130 Sawtelle Blvd,Los Angeles,90025,3105974490,0
+59761,a2085,b2367,Kotoya Japanese Ramen,11901 Santa Monica Blvd,Los Angeles,90025,3104771199,New Japan Take Out,11283 Santa Monica Blvd,Los Angeles,90025,3104770557,0
+60132,a1818,b424,The Smoke House Restaurant,4420 W Lakeside Dr,Burbank,91505,8188453731,The Smoke House Restaurant,4420 W Lakeside Dr,Burbank,91505,8188453731,1
+60215,a411,b2044,The Apple Pan,10801 W Pico Blvd,Los Angeles,90064,3104753585,San Francisco Saloon,11501 W Pico Blvd,Los Angeles,90064,3104780152,0
+60227,a411,b2513,The Apple Pan,10801 W Pico Blvd,Los Angeles,90064,3104753585,The Wellesbourne,10929 W Pico Blvd,Los Angeles,90064,3104740102,0
+60229,a411,b2544,The Apple Pan,10801 W Pico Blvd,Los Angeles,90064,3104753585,The Main Course,10509 W Pico Blvd,Los Angeles,90064,3104757564,0
+60246,a436,b459,Westside Tavern,10850 W Pico Blvd,Los Angeles,90064,3104701539,Westside Tavern,10850 W Pico Blvd,Los Angeles,90064,3104701539,1
+60393,a445,b2519,Bossa Nova Brazilian Cuisine,10982 W Pico Blvd,Los Angeles,90064,3104410404,Chili Thai,10889 W Pico Blvd,Los Angeles,90064,3104419443,0
+60648,a1154,b1620,The Backhouse,10915 W Pico Blvd,Los Angeles,90064,3104816800,The Talpa Restaurant,11751 W Pico Blvd,Los Angeles,90064,3104783353,0
+60658,a1154,b2242,The Backhouse,10915 W Pico Blvd,Los Angeles,90064,3104816800,Teddy's Cafe,12043 W Pico Blvd,Los Angeles,90064,3104449996,0
+60669,a1154,b2544,The Backhouse,10915 W Pico Blvd,Los Angeles,90064,3104816800,The Main Course,10509 W Pico Blvd,Los Angeles,90064,3104757564,0
+60677,a1154,b2872,The Backhouse,10915 W Pico Blvd,Los Angeles,90064,3104816800,Back House,10915 W Pico Blvd,Los Angeles,90064,3104816800,1
+60992,a964,b2352,JINYA Ramen Bar,11239 Ventura Blvd,Studio City,91604,8189803977,Jumpin' Java Kitchen,11919 Ventura Blvd,Los Angeles,91604,8189804249,0
+61014,a968,b303,SunCafe Organic,10820 Ventura Blvd,Studio City,91604,8183087420,SunCafe Organic,10820 Ventura Blvd,Los Angeles,91604,8183087420,1
+61094,a1799,b315,Firefly,11720 Ventura Blvd,Studio City,91604,8187621833,Firefly,11720 Ventura Blvd,Los Angeles,91604,8187621833,1
+61340,a1805,b727,Lala's Argentine Grill,11935 Ventura Blvd,Studio City,91604,8186234477,Lala's,11935 Ventura Blvd,Los Angeles,91604,8186234477,1
+61420,a1811,b748,Crave Cafe,11992 Ventura Blvd,Studio City,91604,8187639000,Bollywood Cafe,11101 Ventura Blvd,Los Angeles,91604,8185088400,0
+61450,a1811,b1909,Crave Cafe,11992 Ventura Blvd,Studio City,91604,8187639000,The Patio Cafe,12833 Ventura Blvd,Los Angeles,91604,8187694700,0
+61501,a1812,b786,Sushi Katsu-Ya Studio City,11680 Ventura Blvd,Studio City,91604,8189856976,Sushi Dan,11056 Ventura Blvd,Los Angeles,91604,8189852254,0
+61512,a1812,b1386,Sushi Katsu-Ya Studio City,11680 Ventura Blvd,Studio City,91604,8189856976,Ahi Sushi,12915 Ventura Blvd,Los Angeles,91604,8189810277,1
+61573,a1813,b618,Barrel & Ashes,11801 Ventura Blvd,Studio City,91604,8186238883,Barrel & Ashes,11801 Ventura Blvd,Los Angeles,91604,8186238883,0
+61642,a1827,b141,Sushi Dan,11056 Ventura Blvd,Studio City,91604,8189852254,Sushi Katsu-ya,11680 Ventura Blvd,Los Angeles,91604,8189856976,1
+61659,a1827,b786,Sushi Dan,11056 Ventura Blvd,Studio City,91604,8189852254,Sushi Dan,11056 Ventura Blvd,Los Angeles,91604,8189852254,0
+61832,a1845,b1448,Granville,12345 Ventura Blvd,Studio City,91604,8185067050,Gangadin Restaurant,12067 Ventura Pl,Los Angeles,91604,8185090722,0
+62161,a1854,b1909,The Six Chow House,12650 Ventura Blvd,Studio City,91604,8187612319,The Patio Cafe,12833 Ventura Blvd,Los Angeles,91604,8187694700,1
+62406,a1891,b2176,Shiki Sushi,12745 1/2 Ventura Blvd,Studio City,91604,8184873938,Shiki By Tanaka,12745 1/2 Ventura Blvd,Los Angeles,91604,8184873938,0
+62615,a1900,b1059,Il Tramezzino - Studio City,13031 Ventura Blvd,Studio City,91604,8187842244,Du-par's Restaurant Studio City,12036 Ventura Blvd,Los Angeles,91604,8187664437,0
+63234,a2126,b700,The Village,12345 Ventura Blvd,Studio City,91604,8187529222,The Six,12650 Ventura Blvd,Los Angeles,91604,8187612319,0
+63273,a2126,b2036,The Village,12345 Ventura Blvd,Studio City,91604,8187529222,The Village,12345 Ventura Blvd,Los Angeles,91604,8187529222,1
+63277,a2126,b2249,The Village,12345 Ventura Blvd,Studio City,91604,8187529222,The Sushi House,11388 Ventura Blvd,Los Angeles,91604,8185063162,0
+63423,a2133,b1888,Lemonade,12401 Ventura Blvd,Los Angeles,91604,8189855700,Lemonade,12401 Ventura Blvd,Los Angeles,91604,8189855700,1
+63536,a417,b348,Hokkaido Ramen Santouka,3760 S Centinela Ave,Los Angeles,90066,3103911101,Casa Sanchez,4500 S Centinela Ave,Los Angeles,90066,3103979999,0
+63641,a606,b1815,Rutt's Hawaiian Cafe,11707 Washington Pl,Los Angeles,90066,3103986326,Maxwell Cafe,13329 W Washington Blvd,Los Angeles,90066,3103067829,0
+63659,a904,b870,Casa Sanchez,4500 S Centinela Ave,Los Angeles,90066,3103979999,Santouka Ramen,3760 S Centinela Ave,Los Angeles,90066,3103911101,0
+63752,a911,b1119,Ekkamai Thai Restaurant,13223 W Washington Blvd,Los Angeles,90066,3108272777,Ekkamai Thai Restaurant,13223 W Washington Blvd,Los Angeles,90066,3108272777,1
+63851,a919,b1815,Cafe Brasil,11736 W Washington Blvd,Los Angeles,90066,3103911216,Maxwell Cafe,13329 W Washington Blvd,Los Angeles,90066,3103067829,0
+63937,a1178,b1410,Empanada's Place,3811 Sawtelle Blvd,Los Angeles,90066,3103910888,Empanada's Place,3811 Sawtelle Blvd,Los Angeles,90066,3103910888,1
+64206,a439,b2763,Native Foods Cafe,1114 Gayley Ave,Los Angeles,90024,3102091055,Novel Cafe,1101 Gayley Ave,Los Angeles,90024,3102086410,0
+64398,a451,b1915,Shamshiri Grill,1712 Westwood Blvd,Los Angeles,90024,3104741410,Shaherzad Restaurant,Westwood Blvd,Los Angeles,90024,3104741700,0
+64443,a452,b673,Fat Sal's Deli,972 Gayley Ave,Los Angeles,90024,8556824373,Fat Sal's Deli,972 Gayley Ave,Los Angeles,90024,8556824373,1
+64513,a454,b645,TLT Food,1116 Westwood Blvd,Los Angeles,90024,3104434433,Soleil Westwood,1386 Westwood Blvd,Los Angeles,90024,3104415384,0
+64621,a456,b2318,Gushi,978 Gayley Ave,Los Angeles,90024,3102084038,Gushi,978 Gayley Ave,Los Angeles,90024,3102084038,1
+64707,a458,b2952,Sunnin Lebanese Cafe,1776 Westwood Blvd,Los Angeles,90024,3104753358,Naab Cafe,1269 Westwood Blvd,Los Angeles,90024,3104730303,0
+64810,a467,b1205,Lamonica's New York Pizza,1066 Gayley Ave,Los Angeles,90024,3102088671,Lamonica's New York Pizza,1066 Gayley Ave,Los Angeles,90024,3102088671,1
+64878,a1152,b1092,Pomodoro Trattoria,1393 Westwood Blvd,Los Angeles,90024,3104459998,Tanino,1043 Westwood Blvd,Los Angeles,90024,3102080444,0
+64998,a2063,b143,Napa Valley Grille,1100 Glendon Ave,Los Angeles,90024,3108243322,Napa Valley Grille,1100 Glendon Ave,Los Angeles,90024,3108243322,1
+65178,a2068,b1865,Mr Noodle,936 Broxton Ave,Los Angeles,90024,3102087808,Mr. Noodle,936 Broxton Ave,Los Angeles,90024,3102081730,1
+65839,a2084,b2763,Elysee Bakery & Cafe,1099 Gayley Ave,Los Angeles,90024,3102086505,Novel Cafe,1101 Gayley Ave,Los Angeles,90024,3102086410,0
+66839,a2423,b2974,The Greenhouse,308 Westwood Plz,Los Angeles,90024,,Cafe Glace,1441 Westwood Blvd,Los Angeles,90024,3104788080,0
+67678,a423,b129,Crave Café,14504 Ventura Blvd,Sherman Oaks,91403,8189907888,Blu Jam Cafe,15045 Ventura Blvd,Los Angeles,91403,8189061955,0
+67727,a967,b1416,MidiCi The Neapolitan Pizza Company,14612 Ventura Blvd,Sherman Oaks,91403,8187882178,On The Thirty,14622 Ventura Blvd,Los Angeles,91403,8187880330,0
+67751,a967,b3001,MidiCi The Neapolitan Pizza Company,14612 Ventura Blvd,Sherman Oaks,91403,8187882178,The Sherman,14633 Ventura Blvd,Los Angeles,91403,,0
+67790,a426,b70,RockSugar Southeast Asian Kitchen,10250 Santa Monica Blvd,Los Angeles,90067,3105529988,RockSugar Pan Asian Kitchen,10250 Santa Monica Blvd,Los Angeles,90067,3105529988,1
+67802,a595,b43,Craft,10100 Constellation Blvd,Los Angeles,90067,3102794180,Craft Los Angeles,10100 Constellation Blvd,Los Angeles,90067,3102794180,1
+67818,a1146,b339,Hinoki & The Bird,10 W Century Dr,Los Angeles,90067,3105521200,Hinoki & the Bird,10 W Century Dr,Los Angeles,90067,3105521200,1
+67858,a1190,b638,Toscanova,10250 Santa Monica Blvd,Los Angeles,90067,3105510499,Toscanova,10250 Santa Monica Blvd Ste 192,Los Angeles,90067,3105510499,0
+67868,a1191,b70,Ajisen Ramen,10250 Santa Monica Blvd,Los Angeles,90067,3105561188,RockSugar Pan Asian Kitchen,10250 Santa Monica Blvd,Los Angeles,90067,3105529988,0
+67922,a1196,b339,Massis Kabob - The Original Kabobery,Westfield Century City Mall,Los Angeles,90067,3105564400,Hinoki & the Bird,10 W Century Dr,Los Angeles,90067,3105521200,0
+68186,a1229,b1685,Century City Mall Food Court,10250 Santa Monica Blvd,Los Angeles,90067,3102773898,BREADBAR Century City,10250 Santa Monica Blvd,Los Angeles,90067,3102773770,0
+68332,a459,b707,SUGARFISH by sushi nozawa,11640 San Vicente Blvd,Los Angeles,90049,3108204477,Sugarfish by Sushi Nozawa,11640 San Vicente Blvd,Los Angeles,90049,3108204477,1
+68661,a2151,b1633,Belwood Bakery Cafe,11625 Barrington Ct,Los Angeles,90049,3104716855,The Brentwood,148 S Barrington Ave,Los Angeles,90049,3104763511,0
+68663,a2151,b1726,Belwood Bakery Cafe,11625 Barrington Ct,Los Angeles,90049,3104716855,Cafe Brentwood,150 S Barrington Ave,Los Angeles,90049,3104720766,0
+68864,a505,b839,HomeState,4624 Hollywood Blvd,Los Angeles,90027,3239061122,HomeState - A Texas Kitchen,4624 Hollywood Blvd,Los Angeles,90027,3239061122,1
+68976,a511,b1699,Alcove Café & Bakery,1929 Hillhurst Ave,Los Angeles,90027,3236440100,Mustard Seed Cafe,1948 Hillhurst Ave,Los Angeles,90027,3236600670,0
+69041,a513,b1206,Home Restaurant - Los Feliz,1760 Hillhurst Ave,Los Angeles,90027,3236690211,Puran's,2064 Hillhurst Ave,Los Angeles,90027,3236671357,0
+69370,a518,b1267,Ruen Pair,5257 Hollywood Blvd,Los Angeles,90027,3234660153,Ruen Pair,5257 Hollywood Blvd,Los Angeles,90027,3234660153,1
+69423,a519,b326,Little Dom's,2128 Hillhurst Ave,Los Angeles,90027,3236610055,Little Dom's,2128 Hillhurst Ave,Los Angeles,90027,3236610055,1
+69676,a522,b513,Pa Ord Noodle,5301 Sunset Blvd,Los Angeles,90027,3234613945,Pa Ord Noodles,5301 W Sunset Blvd,Los Angeles,90027,,1
+69759,a523,b579,Thai Patio,5273 Hollywood Blvd,Los Angeles,90027,3234663894,Thai Patio,5273 Hollywood Blvd,Los Angeles,90027,3234663894,1
+69784,a523,b1308,Thai Patio,5273 Hollywood Blvd,Los Angeles,90027,3234663894,Hollywood Thai Restaurant,5241 Hollywood Blvd,Los Angeles,90027,3234670926,0
+69835,a524,b432,Palermo Italian Restaurant,1858 N Vermont Ave,Los Angeles,90027,3236631430,Palermo Ristorante Italiano,1858 N Vermont Ave,Los Angeles,90027,3236631430,1
+69836,a524,b458,Palermo Italian Restaurant,1858 N Vermont Ave,Los Angeles,90027,3236631430,Il Capriccio on Vermont,1757 N Vermont Ave,Los Angeles,90027,3236625900,0
+69924,a525,b589,Rockwell Table & Stage,1714 N Vermont Ave,Los Angeles,90027,3236691550,The Dresden Room,1760 N Vermont Ave,Los Angeles,90027,3236654294,0
+69941,a525,b1172,Rockwell Table & Stage,1714 N Vermont Ave,Los Angeles,90027,3236691550,Rockwell Table & Stage,1714 N Vermont Ave,Los Angeles,90027,3236691550,1
+69985,a525,b2788,Rockwell Table & Stage,1714 N Vermont Ave,Los Angeles,90027,3236691550,Pattaya Thai Restaurant,1727 N Vermont Ave Ste 105,Los Angeles,90027,3236660880,0
+70380,a532,b2140,Tomato Pie Pizza Joint,2457 Hyperion Ave,Silver Lake,90027,3236616474,Speranza,2547 Hyperion Ave,Los Angeles,90027,3236441918,0
+70607,a537,b1482,Sapp Coffee Shop,5183 Hollywood Blvd,Los Angeles,90027,3236651035,Sapp Coffee Shop,5183 Hollywood Blvd,Los Angeles,90027,3236651035,1
+70656,a538,b458,Il Capriccio on Vermont,1757 N Vermont Ave,Los Angeles,90027,3236625900,Il Capriccio on Vermont,1757 N Vermont Ave,Los Angeles,90027,3236625900,1
+70733,a540,b178,The Dresden Restaurant,1760 N Vermont Ave,Los Angeles,90027,3236654294,Home Restaurant,1760 Hillhurst Ave,Los Angeles,90027,3236690211,0
+70802,a540,b2697,The Dresden Restaurant,1760 N Vermont Ave,Los Angeles,90027,3236654294,Aura Thai Hollywood,1415 N Vermont Ave,Los Angeles,90027,3239069914,0
+71619,a2051,b2609,El Pollo Loco,5319-51 Sunset Blvd,Los Angeles,90027,3236607900,El Chavo,4441 W Sunset Blvd,Los Angeles,90027,3236640871,0
+71794,a2059,b2989,Tamales by Carlos & Mary,5420 Sunset Blvd,Los Angeles,90027,,Dave's BBQ & Grill,5185 W Sunset Blvd,Los Angeles,90027,3239282448,0
+71884,a474,b983,Red Lion Tavern,2366 Glendale Blvd,Los Angeles,90039,3236625337,Red Lion Tavern,2366 Glendale Blvd,Los Angeles,90039,3236625337,1
+71896,a474,b2370,Red Lion Tavern,2366 Glendale Blvd,Los Angeles,90039,3236625337,Modern Eats,2590 Glendale Blvd,Los Angeles,90039,3236651008,0
+72018,a526,b3108,Tam O'Shanter,2980 Los Feliz Blvd,Los Angeles,90039,3236640228,Sizzler,2920 Los Feliz Blvd,Los Angeles,90039,3236601559,0
+72021,a531,b308,The Griffin,3000 Los Feliz Blvd,Los Angeles,90039,3236440444,The Morrison,3179 Los Feliz Blvd,Los Angeles,90039,3236671839,0
+72202,a1762,b1989,Viet Noodle Bar Atwater,3133 Glendale Blvd,Los Angeles,90039,3239061575,Viet Noodle Bar,3133 1/2 Glendale Blvd,Los Angeles,90039,3239061575,1
+72330,a623,b3019,Harajuku Crepe,9405 S Santa Monica Blvd,Beverly Hills,90210,3102853946,Crustacean,9646 Santa Monica Blvd,Beverly Hills,90210,3102058990,0
+72332,a628,b460,Il Pastaio,400 N Canon Dr,Beverly Hills,90210,3102055444,Il Pastaio,400 N Canon Dr,Beverly Hills,90210,3102055444,1
+72563,a2127,b1048,Panini Kabob Grill,9601 Santa Monica Blvd,Beverly Hills,90210,3102478300,Panini Kabob Grill,9601 Santa Monica Blvd,Beverly Hills,90210,3102478300,1
+72700,a2141,b1597,The Cheesecake Factory,364 N Beverly Dr,Beverly Hills,90210,3102787270,The Cheese Store of Beverly Hills,419 N Beverly Dr,Beverly Hills,90210,3102782855,0
+72746,a2149,b1739,M Cafe Beverly Hills,9433 Brighton Way,Beverly Hills,90210,3108588459,Villa Blanca,9601 Brighton Way,Beverly Hills,90210,3108597600,0
+72871,a1174,b57,Cafe Buna,3105 Washington Blvd,Marina del Rey,90292,3108232430,26 Beach Cafe,3100 Washington Blvd,Los Angeles,90292,3108237526,0
+72873,a1174,b229,Cafe Buna,3105 Washington Blvd,Marina del Rey,90292,3108232430,Hinano Cafe,15 Washington Blvd,Los Angeles,90292,3108223902,0
+72876,a1174,b390,Cafe Buna,3105 Washington Blvd,Marina del Rey,90292,3108232430,Terrace Cafe,7 Washington Blvd,Los Angeles,90292,3105781530,0
+72973,a1531,b229,Hinano Café,15 Washington Blvd,Venice,90292,3108223902,Hinano Cafe,15 Washington Blvd,Los Angeles,90292,3108223902,1
+73041,a660,b265,Figueroa Philly,3850 S Figueroa St,Los Angeles,90037,2137489073,Figueroa Philly Cheese Steak,3844 S Figueroa St,Los Angeles,90037,2137489073,1
+73178,a863,b809,Roscoe's House of Chicken & Waffles,106 W Manchester Ave,Los Angeles,90003,3237526211,Roscoe's House of Chicken & Waffles,106 W Manchester Ave Ste F,Los Angeles,90003,3237526211,1
+73267,a1741,b1728,BJ's Restaurant & Brewhouse,101 N. Brand Blvd.,Glendale,91203,8188440160,BJ's Restaurant & Brewhouse,101 N Brand Blvd,Glendale,91203,8188440160,1
+73300,a1748,b2543,Fish Time,310 N Brand Blvd,Glendale,91203,8186377820,Fish Time,310 N Brand Blvd,Glendale,91203,8186377820,1
+73408,a1757,b276,Poké Cafe,120 N Brand Blvd,Glendale,91203,8182470707,Carousel Restaurant,304 N Brand Blvd,Glendale,91203,8182467775,0
+73445,a1759,b2094,Tavern On Brand,208 N Brand Blvd,Glendale,91203,8182911926,Panera Bread,300 N Brand Blvd,Glendale,91203,8182650700,0
+73602,a1789,b2856,Crab Avenue,900 N Central Ave,Glendale,91203,8182445898,Crab Avenue,900 N Central Ave,Glendale,91203,8182445898,1
+73688,a1795,b1362,Phoenicia Restaurant,343 N Central Ave,Glendale,91203,8189567800,Phoenicia Restaurant,343 N Central Ave,Glendale,91203,,1
+73755,a713,b571,Spitz - Eagle Rock,2506 Colorado Blvd,Los Angeles,90041,3232575600,Cindy's Eagle Rock,1500 Colorado Blvd,Los Angeles,90041,3232577375,0
+73765,a713,b1922,Spitz - Eagle Rock,2506 Colorado Blvd,Los Angeles,90041,3232575600,Spitz,2506 Colorado Blvd,Los Angeles,90041,3232575600,1
+73769,a713,b2625,Spitz - Eagle Rock,2506 Colorado Blvd,Los Angeles,90041,3232575600,EagleRock Green Dragon,1735 Colorado Blvd,Los Angeles,90041,3232558889,0
+73878,a754,b954,Four Cafe,2122 Colorado Blvd,Los Angeles,90041,3235501988,Four Cafe,2122 Colorado Blvd,Los Angeles,90041,3235501988,1
+74069,a767,b2625,Eagle Rock Italian Bakery & Deli,1726 Colorado Blvd,Los Angeles,90041,3232558224,EagleRock Green Dragon,1735 Colorado Blvd,Los Angeles,90041,3232558889,0
+74126,a772,b1961,Leo's Tacos,4300 Eagle Rock Blvd,Los Angeles,90041,,Leos tacos,4318 Eagle Rock Blvd,Los Angeles,90041,,1
+74251,a786,b2966,Armon's Restaurant,5056 Eagle Rock Blvd,Los Angeles,90041,3234781440,Armon's Restaurant,5056 Eagle Rock Blvd,Los Angeles,90041,3234781440,1
+74332,a704,b34,Raffi's Place,211 E Broadway,Glendale,91205,8182407411,Raffi's Place Restaurant,211 E Broadway,Glendale,91205,8182407411,1
+74412,a1164,b1046,Mario's Italian Deli & Market,740 E Broadway,Glendale,91205,8182424114,Marios Italian Market,740 E Broadway,Glendale,91205,8182424114,1
+74564,a1787,b851,Scarantino's Italian Inn,1524 E Colorado St,Glendale,91205,8182479777,Scarantino's Italian Inn,1524 E Colorado St,Glendale,91205,8182479777,1
+74610,a709,b1690,Katsuya Glendale,702 Americana Way,Glendale,91210,8182445900,Katsuya - Glendale - SBE,702 Americana Way,Glendale,91210,8182445900,1
+74616,a710,b119,The Cheesecake Factory,511 Americana Way,Glendale,91210,8185507505,The Cheesecake Factory,511 Americana Way,Glendale,91210,8185507505,1
+74636,a1772,b119,The Tsujita,769 Americana Way,Glendale,91210,8185533822,The Cheesecake Factory,511 Americana Way,Glendale,91210,8185507505,0
+74663,a1784,b2835,Le Pain Quotidien,730 Americana Way,Glendale,91210,8188395230,Le Pain Quotidien,730 Americana Way,Glendale,91210,8188395230,1
+74774,a1744,b551,Bourbon Steak,237 S Brand Blvd,Glendale,91204,8188394130,Bourbon Steak,237 S Brand Blvd,Glendale,91204,8188394130,1
+74910,a749,b901,Maximiliano,5930 York Blvd,Los Angeles,90042,3237396125,Maximiliano,5930 York Blvd,Los Angeles,90042,3237396125,1
+75001,a775,b2177,The Hermosillo,5125 York Blvd,Los Angeles,90042,3237396459,Hermosillo,5125 York Blvd,Los Angeles,90042,3237396459,1
+75083,a788,b1869,Folliero's Italian Food and Pizza,5566 N Figueroa St,Los Angeles,90042,3232540505,Folliero's Italian Food and Pizza,5566 N Figueroa St,Los Angeles,90042,3232540505,1
+75323,a806,b2107,Cafe Birdie,5631 N Figueroa St,Los Angeles,90042,3237396928,Cafe Birdie,5631 N Figueroa St,Los Angeles,90042,3237396928,1
+75466,a973,b2865,El Pelon Tacos,52 Ave York Blvd,Los Angeles,90042,,El Huarache Azteca,5225 York Blvd,Los Angeles,90042,3234789572,0
+75511,a758,b665,Skaf's Lebanese Cuisine,367 N Chevy Chase Dr,Glendale,91206,8185515540,Skaf's Lebanese Cuisine,367 N Chevy Chase Dr,Glendale,91206,8185515540,1
+75590,a1750,b1275,Fish King,722 N Glendale Ave,Glendale,91206,8182440804,Fish King,722 N Glendale Ave,Glendale,91206,8182442161,1
+75688,a824,b1088,Bayou Grille,1400 N La Brea Ave,Inglewood,90302,3106730824,Fiesta Martin Mexican Grill,1330 N La Brea Ave,Inglewood,90302,3106721330,0
+75706,a850,b1088,Fiesta Martin Tacos,1314 N La Brea Ave,Inglewood,90302,3106721314,Fiesta Martin Mexican Grill,1330 N La Brea Ave,Inglewood,90302,3106721330,0
+75737,a900,b1061,Roscoe's House of Chicken & Waffles,621 W Manchester Blvd,Inglewood,90301,3109814141,Roscoes House of Chicken & Waffles,621 W Manchester Blvd,Inglewood,90301,3109814141,1
+75740,a907,b2524,Stuff I Eat,114 N Market St,Inglewood,90301,3106710115,Stuff I Eat,114 N Market St,Inglewood,90301,3106710115,1
+75789,a962,b388,CiCi's Cafe,18912 Ventura Blvd,Tarzana,91356,8188816704,Cici's Cafe,18912 Ventura Blvd,Los Angeles,91356,8188816704,1
+75955,a971,b2869,EAT,11108 Magnolia Blvd,North Hollywood,91601,8187604787,The Fat Dog,11050 Magnolia Blvd,Los Angeles,91601,,0
+76002,a1810,b780,Pitfire Artisan Pizza,5211 Lankershim Blvd,North Hollywood,91601,8189802949,Pitfire Artisan Pizza,5211 Lankershim Blvd,Los Angeles,91601,8189802949,1
+76050,a1821,b1534,Vicious Dogs,5231 Lankershim Blvd,North Hollywood,91601,8189853647,Vicious Dogs,5231 Lankershim Blvd,Los Angeles,91601,8189853647,1
+76088,a1831,b1109,Hayat's Kitchen,11009 Burbank Blvd,North Hollywood,91601,8187614656,Hayat's Kitchen,11009 Burbank Blvd,Los Angeles,91601,8187614656,1
+76152,a1870,b1136,The Eclectic,5156 Lankershim Blvd,North Hollywood,91601,8187602233,Eclectic Wine Bar & Grille,5156 Lankershim Blvd,Los Angeles,91601,8187602233,1
+76186,a1874,b2869,The Bar-B-Que Bar,10863 Magnolia Blvd,North Hollywood,91601,8187540030,The Fat Dog,11050 Magnolia Blvd,Los Angeles,91601,,0
+76340,a1377,b928,Urban Plates,12746-3 W Jefferson Blvd,Playa Vista,90094,4242567274,Urban Plates,12746 W Jefferson Blvd,Los Angeles,90094,4242567274,1
+76356,a2401,b2426,ROC Playa Vista,12775 Millennium Dr,Los Angeles,90094,4248354777,R.O.C. Kitchen,12775 Millennium Drive,Los Angeles,90094,4248354777,1
+76359,a2404,b1228,Sweet Fish Sushi Bar,13020 Pacific Promenade,Playa Vista,90094,4242282298,Sweet Fish Sushi Bar,13020 Pacific Promenade,Los Angeles,90094,4242282298,1
+76384,a2413,b1816,Gulp,13020 Pacific Promenade,Los Angeles,90094,3104963966,Gulp Restaurant and Brew Pub,13020 Pacific Promenade,Los Angeles,90094,3104963966,1
+76560,a1644,b184,Slater's 50/50 - Pasadena,61 N Raymond Ave,Pasadena,91103,6267659700,Slater's 50/50,61 N Raymond Ave,Pasadena,91103,6267659700,1
+76657,a1672,b56,Russell's,30 N Fair Oaks Ave,Pasadena,91103,6265781404,Russell's,30 N Fair Oaks Ave,Pasadena,91103,6265781404,1
+76771,a1690,b1480,Meat District,69 N Raymond Ave,Pasadena,91103,6267659902,Vertical Wine Bistro,70 N Raymond Ave,Pasadena,91103,6267953999,0
+76841,a1727,b857,Ramen Tatsunoya,16 N Fair Oaks Ave,Pasadena,91103,6264321768,Ramen Tatsunoya,16 N Fair Oaks Ave,Pasadena,91103,6264321768,1
+77679,a1675,b918,Umami Burger - Pasadena,49 E Colorado Blvd,Pasadena,91105,6267998626,Umami Burger,49 E Colorado Blvd,Pasadena,91105,6267998626,1
+78154,a1721,b2580,IX Tapa Cantina,119 E Colorado Blvd,Pasadena,91105,6263041000,Bar Celona,46 E Colorado Blvd,Pasadena,91105,6264051000,0
+78501,a1735,b30,Parkway Grill,510 S Arroyo Pkwy,Pasadena,91105,6267951001,Parkway Grill,510 S Arroyo Pkwy,Pasadena,91105,6267951001,1
+78580,a1647,b1721,Urth Caffe,594 E Colorado Blvd,Pasadena,91101,6268444644,Yahaira's Cafe,698 E Colorado Blvd,Pasadena,91101,6268443254,0
+78595,a1651,b251,Yard House,330 East Colorado Blvd,Pasadena,91101,6265779273,Yard House,300 E Colorado Blvd,Pasadena,91101,6265779273,1
+78635,a1654,b441,Ruth's Chris Steak House,369 E Colorado Blvd,Pasadena,91101,6265838122,Ruth's Chris Steak House,369 E Colorado Blvd,Pasadena,91101,6265838122,1
+78689,a1655,b1592,Lemonade,146 S Lake Ave,Pasadena,91101,6263047700,Lemonade,146 S Lake Ave,Pasadena,91101,6263047700,1
+78753,a1659,b844,Tender Greens,621 E Colorado Blvd,Pasadena,91101,6264051511,Tender Greens,621 E Colorado Blvd,Pasadena,91101,6264051511,1
+78890,a1670,b208,Green Street Restaurant,146 S Shopper's Ln,Pasadena,91101,6265777170,Green Street Restaurant,146 Shoppers Ln,Pasadena,91101,6265777170,1
+78943,a1676,b1290,The Counter Pasadena,140 Shoppers Ln,Pasadena,91101,6264401008,The Counter,140 Shoppers Ln,Pasadena,91101,6264401008,1
+79312,a1705,b1204,The Hat,491 N Lake Ave,Pasadena,91101,6264491844,The Hat,491 N Lake Ave,Pasadena,91101,6264491844,1
+79404,a1711,b2910,Porto Alegre Churrascaria,300 E Colorado Blvd,Pasadena,91101,6267440555,Porto Alegre,260 E Colorado Blvd,Pasadena,91101,6267440555,1
+79590,a1724,b2971,Tokyo Wako Restaurant,330 E Colorado Blvd,Pasadena,91101,6264400670,Tokyo Wako,330 E Colorado Blvd # 239,Pasadena,91101,6264400670,1
+79592,a1649,b2649,Roscoe's House of Chicken & Waffles,830 N Lake Ave,Pasadena,91104,6267914890,Roscoe's House of Chicken & Waffles,830 N Lake Ave,Pasadena,91104,6267914890,1
+79601,a1656,b455,Malbec Argentinean Cuisine,1001 E Green St,Pasadena,91106,6266830550,Malbec,1001 E Green St,Pasadena,91106,6266830550,1
+79709,a1798,b609,Granville,121 N San Fernando Blvd,Burbank,91502,8188484726,Granville,121 N San Fernando Blvd,Burbank,91502,8188484726,1
+79846,a1825,b1890,Lotus Vegan,4715 Lankershim Blvd,North Hollywood,91602,8187608088,Lotus Vegan Thai Restaurant,4715 Lankershim Blvd,Los Angeles,91602,8187608088,1
+79941,a1893,b88,Ca Del Sole,4100 Cahuenga Blvd,Toluca Lake,91602,8189854669,Ca' Del Sole,4100 Cahuenga Blvd,Los Angeles,91602,8189854669,1
+80110,a1864,b2654,Lusy's Mediterranean Cafe & Grill,6357 Woodman Ave,Van Nuys,91401,8189974330,Lusy's,6357 Woodman Ave,Los Angeles,91401,8189974330,1
+80286,a1963,b2798,101 Noodle Express,1408 E Valley Blvd,Alhambra,91801,6263008654,Top Island Seafood Restaurant,740 E Valley Blvd,Alhambra,91801,6263009898,0
+80291,a1964,b417,38 Degrees Ale House & Grill,100 W Main St,Alhambra,91801,6262822038,Grill 'Em All Alhambra,19 E Main St,Alhambra,91801,6262842874,0
+80395,a1969,b1586,The Boiling Crab,33 W Main St,Alhambra,91801,6263005898,The Boiling Crab,33 W Main St,Alhambra,91801,6263005898,1
+80412,a1971,b453,Lunasia Chinese Cuisine,500 W Main St,Alhambra,91801,6263083222,Lunasia Dim Sum House,500 W Main St,Alhambra,91801,6263083222,1
+80533,a1981,b779,The Hat,1 W Valley Blvd,Alhambra,91801,6262820140,The Hat,1 W Valley Blvd,Alhambra,91801,6262820140,1
+80667,a1989,b2404,Thai Purple,27 N Garfield Ave,Alhambra,91801,6263009083,Thai Purple,27 N Garfield Ave,Alhambra,91801,6263009083,1
+80694,a1991,b2798,Kang Kang Food Court,27 E Valley Blvd,Alhambra,91801,6263083898,Top Island Seafood Restaurant,740 E Valley Blvd,Alhambra,91801,6263009898,0
+80714,a1992,b2362,Izakaya Akatora,115 W Main St,Alhambra,91801,6269437872,Izakaya Akatora,115 W Main St,Alhambra,91801,6269437872,1
+80741,a1993,b2748,Shakas Hawaiian Flavors,101 W Main St,Alhambra,91801,6262935520,Shakas Hawaiian Flavors,101 W Main St,Alhambra,91801,6262935520,1
+81173,a2018,b2748,Los Amigos Mexican Grill and Cantina,118 W Main St,Alhambra,91801,6263130130,Shakas Hawaiian Flavors,101 W Main St,Alhambra,91801,6262935520,0
+81248,a1975,b2250,Benten Ramen,821 W Las Tunas Dr,San Gabriel,91776,6269105075,Benten Ramen,821 W Las Tunas Dr,San Gabriel,91776,6269105075,1
+81287,a1961,b1910,Noodle World,700 W Valley Blvd,Alhambra,91803,6262938800,Sam Woo Barbeque,514 W Valley Blvd,Alhambra,91803,6262810038,0
+81307,a1965,b2918,Banh Mi My Tho,304 W Valley Blvd,Alhambra,91803,6262894160,Banh Mi My Tho,304 W Valley Blvd,Alhambra,91803,6262894160,1
+81335,a1980,b2918,Banh Mi Che Cali,647 W Valley Blvd,Alhambra,91803,6262938396,Banh Mi My Tho,304 W Valley Blvd,Alhambra,91803,6262894160,1
+81344,a1985,b2053,Chengdu Taste,828 W Valley Blvd,Alhambra,91803,6265882284,Chengdu Taste,828 W Valley Blvd,Alhambra,91803,6265882284,1
+81355,a1988,b1567,Pepe's,511 W Valley Blvd,Alhambra,91803,6262898618,Pepe's Mexican Food,511 W Valley Blvd,Alhambra,91803,6262898618,1
+81382,a2003,b1163,Sam Woo Barbeque,514 W Valley Blvd,Alhambra,91803,6262810038,Noodle World Alhambra,700 W Valley Blvd,Alhambra,91803,6262938800,0
+81385,a2003,b1910,Sam Woo Barbeque,514 W Valley Blvd,Alhambra,91803,6262810038,Sam Woo Barbeque,514 W Valley Blvd,Alhambra,91803,6262810038,1
+81429,a2424,b998,Plateia,425 Westwood Plz,Los Angeles,90095,3107943563,Plateia,425 Westwood Plaza,Los Angeles,90095,3107943563,1
+556212,a99,b798,Post & Beam,3767 Santa Rosalia Dr,Los Angeles,90008,3232995599,Post & Beam,767 Santa Rosalia Dr,Los Angeles,,3232995599,1
+625737,a523,b550,Thai Patio,5273 Hollywood Blvd,Los Angeles,90027,3234663894,The Spare Room,"The Hollywood Roosevelt Hotel, Mezzanine",Los Angeles,,,0
+629673,a547,b550,Palms Thai Restaurant,5900 Hollywood Blvd,Los Angeles,90028,3234625073,The Spare Room,"The Hollywood Roosevelt Hotel, Mezzanine",Los Angeles,,,0
+631914,a560,b2483,In-N-Out Burger,7009 Sunset Blvd,Hollywood,90028,8007861000,Wahlburgers,8615 Sunset Boulevard,Los Angeles,,,0
+644032,a634,b2144,The Izaka-Ya by Katsu-Ya West Hollywood,8420 W 3rd St,Los Angeles,90048,3237829536,Kreation Kafe,"8428 W 3rd St, Los Angeles, CA 90048",Los Angeles,,3237821777,0
+692003,a927,b751,The Warehouse Restaurant,4499 Admiralty Way,Marina Del Rey,90292,3108235451,Ports O'Call Waterfront Dining,1200 Nagoya Way,Los Angeles,,3108333553,0
+697799,a962,b1664,CiCi's Cafe,18912 Ventura Blvd,Tarzana,91356,8188816704,La Cava,13565 Ventura Blvd,Los Angeles,,,0
+727903,a1147,b439,Tara's Himalayan Cuisine,10855 Venice Blvd,Los Angeles,90034,3108369696,Barlo Kitchen + Cocktails,"Hotel Erwin, Venice Beach",Los Angeles,,,0
+732511,a1175,b751,Tony P's Dockside Grill,4445 Admiralty Way,Marina Del Rey,90292,3108234534,Ports O'Call Waterfront Dining,1200 Nagoya Way,Los Angeles,,3108333553,0
+734552,a1187,b2029,Meizhou Dongpo Restaurant,10250 Santa Monica Blvd,Los Angeles,90067,3107880120,Meizhou Dongpo,10250 Santa Monica Blvd,Los Angeles,,3107880120,1
+755849,a1317,b1555,Tam's Burgers No 23,303 N Alameda St,Compton,90220,3106393045,Smorgasburg LA,Alameda and Bay,Los Angeles,,,0
+814234,a1681,b1573,White Horse Lounge,41 S De Lacey Ave,Pasadena,91105,6265839013,White Horse Lounge,"41 S Delacey St, Pasadena CA",Pasadena,,6265839013,1
+835871,a1813,b1462,Barrel & Ashes,11801 Ventura Blvd,Studio City,91604,8186238883,Take A Bao,11838 Ventura Boulevard,Los Angeles,,,0
+840289,a1840,b1300,The Local Peasant - Sherman Oaks,14058 Ventura Blvd,Sherman Oaks,91423,8185010234,The Counter,12117 Ventura Blvd,Los Angeles,,8189800004,0
+840365,a1840,b2635,The Local Peasant - Sherman Oaks,14058 Ventura Blvd,Sherman Oaks,91423,8185010234,The Vegan Joint,20855 Ventura Blvd,Los Angeles,,,0
+841290,a1846,b1512,Cafe Bizou,14016 Ventura Blvd,Sherman Oaks,91423,8187883536,Coral Tree Cafe,17499 Ventura Blvd,Los Angeles,,8187898733,0
+841696,a1848,b3099,Mendocino Farms,14141 Ventura Blvd,Sherman Oaks,91423,8182059744,Tarzana Armenian Deli,18598 Ventura Blvd,Los Angeles,,8182251854,0
+842024,a1850,b3099,Mexicali Cocina & Cantina,12161 Ventura Blvd,Studio City,91604,8189851744,Tarzana Armenian Deli,18598 Ventura Blvd,Los Angeles,,8182251854,0
+842100,a1851,b1396,Midori Sushi,13905 Ventura Blvd,Sherman Oaks,91423,8187891188,Shiki Sushi,12745 Ventura Blvd,Los Angeles,,8184873938,0
+842406,a1853,b1016,The Counter Studio City,12117 Ventura Blvd,Studio City,91604,8189800004,The Bellwether,13251 Ventura Blvd,Los Angeles,,8182858184,0
+842418,a1853,b1255,The Counter Studio City,12117 Ventura Blvd,Studio City,91604,8189800004,The Villa,22160 Ventura Blvd.,Los Angeles,,,0
+848502,a1890,b1488,Natas Pastries,13317 Ventura Blvd,Sherman Oaks,91423,8187888050,HQ Gastropub,20969 Ventura Blvd,Los Angeles,,8188872337,0
+848660,a1891,b1396,Shiki Sushi,12745 1/2 Ventura Blvd,Studio City,91604,8184873938,Shiki Sushi,12745 Ventura Blvd,Los Angeles,,8184873938,1
+849265,a1895,b498,The Great Greek,13362 Ventura Blvd,Sherman Oaks,91423,8189055250,Granville,12345 Ventura Boulevard,Los Angeles,,8185067050,0
+849309,a1895,b1300,The Great Greek,13362 Ventura Blvd,Sherman Oaks,91423,8189055250,The Counter,12117 Ventura Blvd,Los Angeles,,8189800004,0
+850146,a1900,b1512,Il Tramezzino - Studio City,13031 Ventura Blvd,Studio City,91604,8187842244,Coral Tree Cafe,17499 Ventura Blvd,Los Angeles,,8187898733,0
+850697,a1903,b2635,Gangadin Indian,12067 Ventura Pl,Studio City,91604,8185090722,The Vegan Joint,20855 Ventura Blvd,Los Angeles,,,0
+850716,a1903,b3099,Gangadin Indian,12067 Ventura Pl,Studio City,91604,8185090722,Tarzana Armenian Deli,18598 Ventura Blvd,Los Angeles,,8182251854,0
+850773,a1904,b1107,Joan's on Third,12059 Ventura Pl,Studio City,91604,8182013900,Joan's on Third,12059 Ventura Place,Los Angeles,,8182013900,1
+851262,a1907,b1016,The Bellwether,13251 Ventura Blvd,Studio City,91604,8182858184,The Bellwether,13251 Ventura Blvd,Los Angeles,,8182858184,1
+851277,a1907,b1300,The Bellwether,13251 Ventura Blvd,Studio City,91604,8182858184,The Counter,12117 Ventura Blvd,Los Angeles,,8189800004,0
+851353,a1907,b2635,The Bellwether,13251 Ventura Blvd,Studio City,91604,8182858184,The Vegan Joint,20855 Ventura Blvd,Los Angeles,,,0
+852342,a1913,b2823,River Rock,12833 Ventura Blvd,Studio City,91604,8184327500,River Rock,12000 block of Ventura Blvd.,Los Angeles,,8184327500,1
+860389,a1962,b3078,Kopan Ramen - Alhambra,645 E Main St,Alhambra,91801,6264588388,Alondra Hotwings,515 Main Street,Alhambra,,,0
+860717,a1964,b3078,38 Degrees Ale House & Grill,100 W Main St,Alhambra,91801,6262822038,Alondra Hotwings,515 Main Street,Alhambra,,,0
+865309,a1992,b3078,Izakaya Akatora,115 W Main St,Alhambra,91801,6269437872,Alondra Hotwings,515 Main Street,Alhambra,,,0
+869573,a2018,b3078,Los Amigos Mexican Grill and Cantina,118 W Main St,Alhambra,91801,6263130130,Alondra Hotwings,515 Main Street,Alhambra,,,0
+887190,a2126,b1255,The Village,12345 Ventura Blvd,Studio City,91604,8187529222,The Villa,22160 Ventura Blvd.,Los Angeles,,,0
+888157,a2132,b934,Carney's Express Limited,12601 Ventura Blvd,Studio City,91604,8187618300,The Carving Board,18607 Ventura Blvd #100,Los Angeles,,8183423200,0
+897014,a2186,b956,Landings Bar & Lounge,5711 W Century Blvd,Los Angeles,90045,,Landings,"Hilton Lax, 5711 West Century Boulevard",Los Angeles,,3104104000,1
+902061,a2217,b260,Barista Society,300 S Grand Ave,Los Angeles,90071,2134443389,Blue Cow Kitchen & Bar,350 South Grand Ave,Los Angeles,,2136212249,0
+905731,a2239,b1392,Poncho's Tlayudas,4318 S Main St,Los Angeles,90037,,The Anchor,235 Main St,Los Angeles,,3106649696,0
+909761,a2264,b126,El Paseo Cafe,100 World Way,Los Angeles,90045,,Hard Rock Cafe Hollywood,100 Universal City Plaza,Los Angeles,,8186227625,0
+916355,a2305,b751,Galen Dining Hall,Watt Way,Los Angeles,90089,,Ports O'Call Waterfront Dining,1200 Nagoya Way,Los Angeles,,3108333553,0
