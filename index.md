@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-### Stage 1
+### Stage 1 Information extraction from neural network
 
 Data comes from: [TripAdvisor Restaurant Review](https://www.tripadvisor.com/Restaurant_Review-g60859-d398237-Reviews-Marigold_Kitchen-Madison_Wisconsin.html)<br>
 Entity Type: Food <br>
@@ -15,7 +15,7 @@ Markup Tag:  `<pos></pos>`
 - [Report](https://github.com/HannahWang/CS838-Data-Science/blob/master/stage1/Report%20-%20Stage%201.pdf)
 
 
-### Stage 2
+### Stage 2 Crawling and extracting structured data from Web pages
 
 Data comes from: <br>
 A: [Yelp Best Restaurants in Los Angeles, CA](https://www.yelp.com/search?find_desc=Restaurants&find_loc=Los+Angeles%2C+CA&ns=1) (sort by Best Match)<br>
@@ -24,3 +24,11 @@ B: [TripAdvisor Restaurants in Los Angeles](https://www.tripadvisor.com/Restaura
 - [Data](https://github.com/HannahWang/CS838-Data-Science/tree/master/stage2/data)
 - [Source Code](https://github.com/HannahWang/CS838-Data-Science/tree/master/stage2/code)
 - [Report](https://github.com/HannahWang/CS838-Data-Science/blob/master/stage2/Report%20-%20Stage2.pdf)
+
+### Stage 3 Entity matching
+
+- [Data](https://github.com/HannahWang/CS838-Data-Science/tree/master/stage3/data)
+- [Source Code](https://github.com/HannahWang/CS838-Data-Science/tree/master/stage3/code)
+- [Report]()
+
+
