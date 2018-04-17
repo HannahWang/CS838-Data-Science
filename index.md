@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages ![alt text](assets/folder-min.png)
 
-### Stage 1 Information extraction from neural network
+### Stage 1 Information extraction from natural text
 
 Data comes from: [TripAdvisor Restaurant Review](https://www.tripadvisor.com/Restaurant_Review-g60859-d398237-Reviews-Marigold_Kitchen-Madison_Wisconsin.html)<br>
 Entity Type: Food <br>
