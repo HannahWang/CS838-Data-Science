@@ -27,6 +27,8 @@ B: [TripAdvisor Restaurants in Los Angeles](https://www.tripadvisor.com/Restaura
 
 ### Stage 3 Entity matching
 
+Data comes from: Stage 2
+
 - [Data](https://github.com/HannahWang/CS838-Data-Science/tree/master/stage3/data)
 - [Source Code](https://github.com/HannahWang/CS838-Data-Science/tree/master/stage3/code)
 - [Report]()
