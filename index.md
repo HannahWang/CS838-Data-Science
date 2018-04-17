@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages ![alt text](assets/folder-min.png)
 
 ### Stage 1 Information extraction from neural network
 
