@@ -31,6 +31,6 @@ Data comes from: Stage 2
 
 - [Data](https://github.com/HannahWang/CS838-Data-Science/tree/master/stage3/data)
 - [Source Code](https://github.com/HannahWang/CS838-Data-Science/tree/master/stage3/code)
-- [Report]()
+- [Report](https://github.com/HannahWang/CS838-Data-Science/blob/master/stage3/Report.pdf)
 
 
