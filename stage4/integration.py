@@ -69,7 +69,9 @@ predictions = matcher.predict(table=Ht, exclude_attrs=['_id', 'ltable_id', 'rtab
 # save the final predictions
 predictions.to_csv('P.csv', index = False)
 
-#%% get only the positive paris
+#%% Merge columns to Table A and B
+# get only the positive paris
+predictions = pd.read_csv('P.csv')
 P = predictions[predictions['predicted'] == 1]
 
 # Add columns to E
@@ -84,23 +86,93 @@ for i in range(14, 28, 1):
     E2.iloc[:,i] = E2.iloc[:,i].fillna(E2.iloc[:,i+25])
 E2.isnull().sum()
 
-E2['city'] = E2['city_b']
-E2['category_1'] = E2['category_1_b']
-E2['category_2'] = E2['category_2_b']
-E2['category_3'] = E2['category_1_a']
-E2['category_4'] = E2['category_2_a']
-E2 = E2.drop(E2.columns[range(39, 53, 1)], axis = 1)
-E2 = E2.drop(columns = ['ltable_id','rtable_id','category_1_a','category_2_a','category_1_b',
-                        'category_2_b','city_a','city_b','address_b','zipcode_b',
-                        'phone_b'])
+# remove duplicated rows based on id of Table A
+E2 = E2.drop_duplicates(subset = 'id_a')
+
+# merge the category columns
+# define two categories:
+# category_loc: category by location
+# category_food: category by food
+cat_loc = ['american','japanese','mexican','italian','thai','chinese','korean',
+           'vietnamese','mediterranean','french','indian','brazilian']
+cat_food = ['barbecue','pizza','cafe','seafood','steakhouse','fast food','sushi',
+            'ramen','breakfast & brunch','burger','bars']
+
+E2['categories'] = E2[['category_1_b','category_2_b','category_1_a',
+                       'category_2_a']].values.tolist()
+
+def get_category_loc(row):
+    """get the category based on ranked list of category_by_location
+    """
+    cat = 'other'
+    for t in cat_loc:
+        for item in row:
+            if pd.isnull(item):
+                continue
+            if item.split()[0].lower() == 'american':
+                return 'american'
+            if item.lower() == 'pizza':
+                return 'italian'
+            if item.lower() == 'ramen':
+                return 'japanese'
+            if em.lev_dist(item.lower(), t) < 2:
+                return t
+    return cat
+
+def get_category_food(row):
+    """get the category based on a ranked list of food category
+    """
+    cat = 'other'
+    for t in cat_food:
+        for item in row:
+            if pd.isnull(item):
+                continue
+            if item.split()[0].lower() == 'sushi':
+                return 'sushi'
+            if em.lev_dist(item.lower(), t) < 2:
+                return t
+    return cat
+
+def add_asian_other(row):
+    """Create a new category called "asian other"
+    """
+    if row['category'] == 'other':
+        for cat in row['categories']:
+            if pd.isnull(cat):
+                continue
+            for x in cat.split():
+                if x.lower() == 'asian':
+                    return 'asian other'
+    return row['category']
+
+
+E2['category_loc'] = E2['categories'].apply(get_category_loc)
+E2['category_food'] = E2['categories'].apply(get_category_food)
+
+# combine into a single category based primary on food, fill with location
+E2['category'] = E2['category_food']
+E2.loc[E2['category_food'] == 'other', 'category'] = E2.loc[E2['category_food'] == 'other', 'category_loc']
+
+# combine low count categories
+E2['category'] = E2['category'].replace({'ramen':'japanese','brazilian':'other',
+                                         'french':'other','indian':'asian other'})
+E2['category'] = E2.apply(add_asian_other, axis = 1)
+    
+Et = E2[['categories','category_loc','category_food','category']]
+E2.category_loc.value_counts()
+E2.category_food.value_counts()
+E2.category.value_counts()
+
+
+#%% Clean columns
 
 # reorder columns
-colindex = [0,1,23,2,24,28,4,3,5,29,30,31,32,6,7,8,25,26,27]
-colindex.extend(range(9,23,1))
+colindex = [0,3,28,4,29,33,9,7,10,56,54,55,11,12,13,36,37,38]
+colindex.extend(range(13,28,1))
 E = E2.iloc[:,colindex]
 
 # rename some column names
-colrelist = [6, 7, 8]
+colrelist = [5, 6, 7, 8]
 colrelist.extend(range(19, 33, 1))
 colnames = []
 for i in range(E.shape[1]):
@@ -111,5 +183,12 @@ for i in range(E.shape[1]):
     colnames.append(coln)
 
 E.columns = colnames
+E = E.rename(columns = {'price_a':'price_yelp','rating_a':'rating_yelp',
+                        'review_count_a':'review_count_yelp',
+                        'price_b':'price_trip','rating_b':'rating_trip',
+                        'review_count_b':'review_count_trip',
+                        'name_b':'name'})
+
+E = E.drop(columns = ['_id','name_a'])
 
 E.to_csv('E.csv', index = False)
