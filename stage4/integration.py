@@ -163,17 +163,22 @@ E2.category_loc.value_counts()
 E2.category_food.value_counts()
 E2.category.value_counts()
 
+# merge rating, price, and review counts
+E2['price'] = E2['price_a']
+E2['price'] = E2['price'].fillna(E2['price_b']).round()
+E2['rating'] = (E2['rating_a'] + E2['rating_b']) / 2
+E2['review_count'] = E2['review_count_a'] + E2['review_count_b']
 
 #%% Clean columns
 
 # reorder columns
-colindex = [0,3,28,4,29,33,9,7,10,56,54,55,11,12,13,36,37,38]
-colindex.extend(range(13,28,1))
+colindex = [0,3,28,4,29,33,9,7,10,56,54,55,57,58,59,11,12,13,36,37,38]
+colindex.extend(range(14,28,1))
 E = E2.iloc[:,colindex]
 
 # rename some column names
 colrelist = [5, 6, 7, 8]
-colrelist.extend(range(19, 33, 1))
+colrelist.extend(range(21, 35, 1))
 colnames = []
 for i in range(E.shape[1]):
     if i in colrelist:
@@ -190,5 +195,8 @@ E = E.rename(columns = {'price_a':'price_yelp','rating_a':'rating_yelp',
                         'name_b':'name'})
 
 E = E.drop(columns = ['_id','name_a'])
+E.index.names = ['id']
+E.to_csv('E_raw.csv')
 
-E.to_csv('E.csv', index = False)
+Eclean = E.drop(columns = ['id_a','id_b'])
+Eclean.to_csv('E.csv')
