@@ -1,39 +1,11 @@
 # CS838-Data-Science
 
+Members:
+Ya-Chun Yang, yang364@wisc.edu
+Han Wang, hwang729@wisc.edu
+Yanghui Kang, ykang38@wisc.edu
+
 Project page: https://hannahwang.github.io/CS838-Data-Science/
 
-You can use the [editor on GitHub](https://github.com/HannahWang/CS838.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HannahWang/CS838.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The goal of this project is to process and analyze the dirty real world data.
+We collected the data from Yelp and TripAdvisor, wrangle the data by extracting/cleaning/matching/integrating the data into a single unified data set, then analyze that data set to infer insights. 
