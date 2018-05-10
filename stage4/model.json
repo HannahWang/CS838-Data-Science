@@ -1,0 +1,102 @@
+{
+    "dimensions": [
+        {"name":"location",
+         "levels": [
+            {"name":"city"},
+            {"name":"zipcode"}      
+         ]
+        },
+        {"name": "category_loc"},
+        {"name": "category_food"},
+        {"name":"price"},
+        {"name":"review", 
+         "levels": [
+            {"name":"rating"},
+            {"name":"review_count"}
+         ]
+        },
+        {
+         "name":"hours",
+         "levels": [
+            {"name":"hours_sun_open"},
+            {"name":"hours_sun_close"},
+            {"name":"hours_mon_open"}, 
+            {"name":"hours_mon_close"}, 
+            {"name":"hours_tue_open"}, 
+            {"name":"hours_tue_close"}, 
+            {"name":"hours_wed_open"}, 
+            {"name":"hours_wed_close"}, 
+            {"name":"hours_thu_open"},
+            {"name":"hours_thu_close"}, 
+            {"name":"hours_fri_open"}, 
+            {"name":"hour_fri_close"},
+            {"name":"hours_sat_open"},
+            {"name":"hours_sat_close"}
+         ]
+        }
+    ],
+    "cubes": [
+        {
+            "name": "restaurants",
+            "dimensions": ["location", "category_loc", "category_food", "price", "review", "hours"],
+            "aggregates": [
+                {"name": "num_restaurants", "function": "count"},
+                {
+                    "name": "price_avg",
+                    "measure": "price",
+                    "function": "avg"
+                },
+                {
+                    "name": "rating_avg",
+                    "measure": "review.rating",
+                    "function": "avg"
+                },
+                {
+                    "name": "review_count_sum",
+                    "measure": "review.review_count",
+                    "function": "sum"
+                },
+                {
+                    "name": "hours_sun_open_avg",
+                    "measure": "hours.hours_sun_open",
+                    "function": "avg"
+                },
+                {
+                    "name": "hours_sun_close_avg",
+                    "measure": "hours.hours_sun_close",
+                    "function": "avg"
+                },
+                {
+                    "name": "hours_mon_open_avg",
+                    "measure": "hours.hours_mon_open",
+                    "function": "avg"
+                },
+                {
+                    "name": "hours_mon_close_avg",
+                    "measure": "hours.hours_mon_close",
+                    "function": "avg"
+                }
+            ],
+            "mappings": {
+                "location.city": "city",
+                "location.zipcode": "zipcode",
+                "review.rating": "rating",
+                "review.review_count": "review_count",
+                "hours.hours_sun_open":"hours_sun_open",
+                "hours.hours_sun_close":"hours_sun_close",
+                "hours.hours_mon_open": "hours_mon_open",
+                "hours.hours_mon_close": "hours_mon_close",
+                "hours.hours_tue_open": "hours_tue_open",
+                "hours.hours_tue_close": "hours_tue_close",
+                "hours.hours_wed_open": "hours_wed_open",
+                "hours.hours_wed_close": "hours_wed_close",
+                "hours.hours_thu_open": "hours_thu_open",
+                "hours.hours_thu_close": "hours_thu_close",
+                "hours.hours_fri_open": "hours_fri_open",
+                "hours.hours_fri_close": "hours_fri_close",
+                "hours.hours_sat_open": "hours_sat_open",
+                "hours.hours_sat_close": "hours_sat_close"
+            }
+        }
+    ]
+}
