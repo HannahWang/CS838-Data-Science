@@ -33,4 +33,13 @@ Data comes from: Stage 2
 - [Source Code](https://github.com/HannahWang/CS838-Data-Science/tree/master/stage3/code)
 - [Report](https://github.com/HannahWang/CS838-Data-Science/blob/master/stage3/Report.pdf)
 
+### Stage 4 Integrating and performing analysis
+
+Data comes from: Stage 3
+
+- [Data](https://github.com/HannahWang/CS838-Data-Science/tree/master/stage4/data)
+- [Source Code](https://github.com/HannahWang/CS838-Data-Science/tree/master/stage4/code)
+- [Report](https://github.com/HannahWang/CS838-Data-Science/blob/master/stage4/Report.pdf)
+
+
 
