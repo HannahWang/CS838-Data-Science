@@ -29,7 +29,7 @@
             {"name":"hours_thu_open"},
             {"name":"hours_thu_close"}, 
             {"name":"hours_fri_open"}, 
-            {"name":"hour_fri_close"},
+            {"name":"hours_fri_close"},
             {"name":"hours_sat_open"},
             {"name":"hours_sat_close"}
          ]
@@ -74,6 +74,56 @@
                 {
                     "name": "hours_mon_close_avg",
                     "measure": "hours.hours_mon_close",
+                    "function": "avg"
+                },
+                {
+                    "name": "hours_tue_open_avg",
+                    "measure": "hours.hours_tue_open",
+                    "function": "avg"
+                },
+                {
+                    "name": "hours_tue_close_avg",
+                    "measure": "hours.hours_tue_close",
+                    "function": "avg"
+                },
+                {
+                    "name": "hours_wed_open_avg",
+                    "measure": "hours.hours_wed_open",
+                    "function": "avg"
+                },
+                {
+                    "name": "hours_wed_close_avg",
+                    "measure": "hours.hours_wed_close",
+                    "function": "avg"
+                },
+                {
+                    "name": "hours_thu_open_avg",
+                    "measure": "hours.hours_thu_open",
+                    "function": "avg"
+                },
+                {
+                    "name": "hours_thu_close_avg",
+                    "measure": "hours.hours_thu_close",
+                    "function": "avg"
+                },
+                {
+                    "name": "hours_fri_open_avg",
+                    "measure": "hours.hours_fri_open",
+                    "function": "avg"
+                },
+                {
+                    "name": "hours_fri_close_avg",
+                    "measure": "hours.hours_fri_close",
+                    "function": "avg"
+                },
+                {
+                    "name": "hours_sat_open_avg",
+                    "measure": "hours.hours_sat_open",
+                    "function": "avg"
+                },
+                {
+                    "name": "hours_sat_close_avg",
+                    "measure": "hours.hours_sat_close",
                     "function": "avg"
                 }
             ],

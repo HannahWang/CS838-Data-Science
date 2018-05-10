@@ -58,34 +58,55 @@ print()
 
 # aggregation by restaurant price
 result = browser.aggregate(drilldown=["price"])
-t = PrettyTable(['Price', '# Restaurants', 'Avg. Rating', '# Reviews/Restaurant', 'Avg. Sun. Open Hours', 'Avg. Sun. Close Hours', 'Avg. Mon. Open Hours', 'Avg. Mon. Close Hours'])
+t = PrettyTable(['Price', '# Restaurants', 'Avg. Rating', '# Reviews/Restaurant', 'Weekend Open Hours', 'Weekend Close Hours', 'Weekday Open Hours', 'Weekday Close Hours'])
 for record in result:
-    t.add_row([round(record['price'],3), record['num_restaurants'], round(record['rating_avg'],3), round(record['review_count_sum']/record['num_restaurants']), round(record['hours_sun_open_avg']), round(record['hours_sun_close_avg']), round(record['hours_mon_open_avg']), round(record['hours_mon_close_avg'])])
+    weekend = []
+    t.add_row([round(record['price'],2), record['num_restaurants'], round(record['rating_avg'],2), round(record['review_count_sum']/record['num_restaurants']), 
+               round((record['hours_sun_open_avg']+record['hours_sat_open_avg'])/2), 
+               round((record['hours_sun_close_avg']+record['hours_sat_close_avg'])/2), 
+               round((record['hours_mon_open_avg']+record['hours_tue_open_avg']+record['hours_wed_open_avg']+record['hours_thu_open_avg']+record['hours_fri_open_avg'])/5), 
+               round((record['hours_mon_close_avg']+record['hours_tue_close_avg']+record['hours_wed_close_avg']+record['hours_thu_close_avg']+record['hours_fri_close_avg'])/5)
+               ])
 print(t)
 print()
 
 # aggregation by restaurant rating
 result = browser.aggregate(drilldown=["review:rating"])
-t = PrettyTable(['Rating', '# Restaurants', 'Avg. Price', '# Reviews/Restaurant', 'Avg. Sun. Open Hours', 'Avg. Sun. Close Hours', 'Avg. Mon. Open Hours', 'Avg. Mon. Close Hours'])
+t = PrettyTable(['Rating', '# Restaurants', 'Avg. Price', '# Reviews/Restaurant', 'Weekend Open Hours', 'Weekend Close Hours', 'Weekday Open Hours', 'Weekday Close Hours'])
 for record in result:
-    t.add_row([round(record['review.rating'],3), record['num_restaurants'], round(record['price_avg'],3), round(record['review_count_sum']/record['num_restaurants']), round(record['hours_sun_open_avg']), round(record['hours_sun_close_avg']), round(record['hours_mon_open_avg']), round(record['hours_mon_close_avg'])])
+    t.add_row([round(record['review.rating'],2), record['num_restaurants'], round(record['price_avg'],2), round(record['review_count_sum']/record['num_restaurants']), 
+               round((record['hours_sun_open_avg']+record['hours_sat_open_avg'])/2), 
+               round((record['hours_sun_close_avg']+record['hours_sat_close_avg'])/2), 
+               round((record['hours_mon_open_avg']+record['hours_tue_open_avg']+record['hours_wed_open_avg']+record['hours_thu_open_avg']+record['hours_fri_open_avg'])/5), 
+               round((record['hours_mon_close_avg']+record['hours_tue_close_avg']+record['hours_wed_close_avg']+record['hours_thu_close_avg']+record['hours_fri_close_avg'])/5)
+               ])
 print(t)
 print()
 
 # aggregation by category location
 result = browser.aggregate(drilldown=["category_loc"])
-t = PrettyTable(['Cat:Location', '# Restaurants', 'Avg. Price', 'Avg. Rating', '# Reviews/Restaurant', 'Sun. Open Hours', 'Sun. Close Hours', 'Mon. Open Hours', 'Mon. Close Hours'])
+t = PrettyTable(['Cat:Location', '# Restaurants', 'Avg. Price', 'Avg. Rating', '# Reviews/Restaurant', 'Weekend Open Hours', 'Weekend Close Hours', 'Weekday Open Hours', 'Weekday Close Hours'])
 for record in result:
-    t.add_row([record['category_loc'], record['num_restaurants'], round(record['price_avg'],3), round(record['rating_avg'],3), round(record['review_count_sum']/record['num_restaurants']), round(record['hours_sun_open_avg']), round(record['hours_sun_close_avg']), round(record['hours_mon_open_avg']), round(record['hours_mon_close_avg'])])
+    t.add_row([record['category_loc'], record['num_restaurants'], round(record['price_avg'],2), round(record['rating_avg'],2), round(record['review_count_sum']/record['num_restaurants']), 
+               round((record['hours_sun_open_avg']+record['hours_sat_open_avg'])/2), 
+               round((record['hours_sun_close_avg']+record['hours_sat_close_avg'])/2), 
+               round((record['hours_mon_open_avg']+record['hours_tue_open_avg']+record['hours_wed_open_avg']+record['hours_thu_open_avg']+record['hours_fri_open_avg'])/5), 
+               round((record['hours_mon_close_avg']+record['hours_tue_close_avg']+record['hours_wed_close_avg']+record['hours_thu_close_avg']+record['hours_fri_close_avg'])/5)
+               ])
 print(t)
 print()
 
 
 # aggregation by category food
 result = browser.aggregate(drilldown=["category_food"])
-t = PrettyTable(['Cat:Food', '# Restaurants', 'Avg. Price', 'Avg. Rating', '# Reviews/Restaurant', 'Sun. Open Hours', 'Sun. Close Hours', 'Mon. Open Hours', 'Mon. Close Hours'])
+t = PrettyTable(['Cat:Food', '# Restaurants', 'Avg. Price', 'Avg. Rating', '# Reviews/Restaurant', 'Weekend Open Hours', 'Weekend Close Hours', 'Weekday Open Hours', 'Weekday Close Hours'])
 for record in result:
-    t.add_row([record['category_food'], record['num_restaurants'], round(record['price_avg'],3), round(record['rating_avg'],3), round(record['review_count_sum']/record['num_restaurants']), round(record['hours_sun_open_avg']), round(record['hours_sun_close_avg']), round(record['hours_mon_open_avg']), round(record['hours_mon_close_avg'])])
+    t.add_row([record['category_food'], record['num_restaurants'], round(record['price_avg'],2), round(record['rating_avg'],2), round(record['review_count_sum']/record['num_restaurants']), 
+               round((record['hours_sun_open_avg']+record['hours_sat_open_avg'])/2), 
+               round((record['hours_sun_close_avg']+record['hours_sat_close_avg'])/2), 
+               round((record['hours_mon_open_avg']+record['hours_tue_open_avg']+record['hours_wed_open_avg']+record['hours_thu_open_avg']+record['hours_fri_open_avg'])/5), 
+               round((record['hours_mon_close_avg']+record['hours_tue_close_avg']+record['hours_wed_close_avg']+record['hours_thu_close_avg']+record['hours_fri_close_avg'])/5)
+               ])
 print(t)
 print()
 
