@@ -1,9 +1,8 @@
 # CS838-Data-Science
 
 Members:
-Ya-Chun Yang, yang364@wisc.edu
-Han Wang, hwang729@wisc.edu
-Yanghui Kang, ykang38@wisc.edu
+Han Wang, Yanghui Kang, Ya-Chun Yang
+
 
 Project page: https://hannahwang.github.io/CS838-Data-Science/
 
